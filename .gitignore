@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# Data artifacts
+data/raw/
+data/processed/
+data/outputs/*
+!data/outputs/ranked_output.xlsx
+data/jd_intent.json
+
+# Binary vector files
+*.faiss
+*.npy
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

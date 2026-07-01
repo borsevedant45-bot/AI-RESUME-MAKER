@@ -1,0 +1,72 @@
+{
+  "de": {
+    "label": "Senior Data Engineer",
+    "fit_anchors": [
+      "CAND_0023617",
+      "CAND_0006135",
+      "CAND_0071511"
+    ],
+    "nonfit_anchors": [
+      "CAND_0000024",
+      "CAND_0000042",
+      "CAND_0000058"
+    ],
+    "anchor_source": "pipeline-top3-post-domain-filter"
+  },
+  "hr": {
+    "label": "HR Manager",
+    "fit_anchors": [
+      "CAND_0029212",
+      "CAND_0021185",
+      "CAND_0029753"
+    ],
+    "nonfit_anchors": [
+      "CAND_0000007",
+      "CAND_0000009",
+      "CAND_0000010"
+    ],
+    "anchor_source": "pipeline-top3-post-domain-filter"
+  },
+  "analyst": {
+    "label": "Mid Data Analyst",
+    "fit_anchors": [
+      "CAND_0008803",
+      "CAND_0001493",
+      "CAND_0057065"
+    ],
+    "nonfit_anchors": [
+      "CAND_0000007",
+      "CAND_0000013",
+      "CAND_0000066"
+    ],
+    "anchor_source": "pipeline-top3-post-domain-filter"
+  },
+  "pm": {
+    "label": "Project Manager (Implicit)",
+    "fit_anchors": [
+      "CAND_0001631",
+      "CAND_0017046",
+      "CAND_0016340"
+    ],
+    "nonfit_anchors": [
+      "CAND_0000005",
+      "CAND_0000010",
+      "CAND_0000013"
+    ],
+    "anchor_source": "pipeline-top3-post-domain-filter"
+  },
+  "accountant": {
+    "label": "Senior Accountant",
+    "fit_anchors": [
+      "CAND_0054771",
+      "CAND_0088037",
+      "CAND_0021107"
+    ],
+    "nonfit_anchors": [
+      "CAND_0000007",
+      "CAND_0000010",
+      "CAND_0000013"
+    ],
+    "anchor_source": "pipeline-top3-post-domain-filter"
+  }
+}

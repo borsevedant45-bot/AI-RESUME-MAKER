@@ -1,0 +1,105 @@
+# ── Model configuration ──────────────────────────────────────────────────────
+embedding:
+  model_name: "BAAI/bge-small-en-v1.5"
+  fallback_model_name: "all-MiniLM-L6-v2"
+  batch_size: 256
+  embedding_dim: 384
+
+llm:
+  provider: "ollama"
+  model: "qwen2.5-coder:7b"
+  max_tokens: 4000
+  explanation_batch_size: 4
+  ollama_model: "qwen2.5-coder:7b"
+  ollama_base_url: "http://localhost:11434"
+
+# ── Retrieval configuration ───────────────────────────────────────────────────
+retrieval:
+  top_n_shortlist: 500
+  top_n_output: 20
+
+# ── Scoring weights (must sum to 1.0 across B1–B4; B5 is additive) ───────────
+scoring_weights:
+  semantic: 0.35
+  trajectory: 0.25
+  stability: 0.15
+  platform: 0.20
+  cert_bonus_multiplier: 0.05
+
+# ── Sub-score formula parameters ─────────────────────────────────────────────
+skill_strength:
+  proficiency_weight: 0.50
+  duration_weight: 0.35
+  endorsement_weight: 0.15
+  max_duration_years: 5.0
+  max_endorsements: 50
+
+trajectory:
+  seniority_levels:
+    intern: 0.1
+    trainee: 0.1
+    junior: 0.2
+    associate: 0.2
+    entry: 0.2
+    graduate: 0.2
+    mid: 0.5
+    senior: 0.75
+    lead: 0.75
+    manager: 0.75
+    principal: 1.0
+    staff: 1.0
+    director: 1.0
+    vp: 1.0
+    head: 1.0
+    chief: 1.0
+  stretch_readiness:
+    min_promotion_rate: 0.5
+    min_experience_years: 5.0
+    fit_override_value: 0.75
+
+stability:
+  strong_tenure_months: 36
+  hopping_penalty: 0.30
+  consecutive_short_tenure_threshold_months: 12
+  consecutive_short_tenure_count: 3
+  edu_bonus:
+    tier_1: 0.05
+    tier_2: 0.03
+    tier_3: 0.01
+    tier_4: 0.00
+
+platform:
+  passive_open_to_work_score: 0.40
+  max_applications_norm: 10
+  max_search_appearances_norm: 200
+  max_response_time_norm_hrs: 200
+  github_activity_max: 96.9
+  max_endorsements_norm: 100
+
+cert_bonus:
+  max_bonus: 0.10
+  recency_decay_per_year: 0.10
+  recency_floor: 0.50
+
+# ── Embedding similarity thresholds ──────────────────────────────────────────
+thresholds:
+  semantic_fallback_discount: 0.60
+  domain_relevance_min_cosine: 0.60
+  thin_profile_char_limit: 50
+  thin_profile_description_min: 20
+  thin_profile_semantic_cap: 0.55
+
+# ── Ranking ───────────────────────────────────────────────────────────────────
+ranking:
+  tiebreaker_composite_tolerance: 0.001
+
+# ── Paths (overridden by CLI args) ────────────────────────────────────────────
+paths:
+  raw_data: "data/raw/candidates.jsonl"
+  processed_dir: "data/processed"
+  output_dir: "data/outputs"
+
+# ── Logging ───────────────────────────────────────────────────────────────────
+logging:
+  level: "INFO"
+  log_file: "logs/pipeline.log"
