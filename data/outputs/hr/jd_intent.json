@@ -1,0 +1,43 @@
+{
+  "seniority_level": 0.75,
+  "seniority_evidence": "lead our human resources department",
+  "must_have_skills": [
+    "HR strategy and operations",
+    "Talent acquisition and recruitment",
+    "Employee relations management",
+    "Performance management systems",
+    "Compensation and benefits administration",
+    "Labor law and compliance",
+    "HR analytics and reporting",
+    "Communication and interpersonal skills",
+    "Leadership and team management",
+    "Conflict resolution"
+  ],
+  "nice_to_have_skills": [
+    "HRMS implementation experience (SAP SuccessFactors, Workday)",
+    "Organization development certification",
+    "Diversity and inclusion program management",
+    "Change management certification",
+    "Experience with startups or high-growth companies"
+  ],
+  "core_problems_to_solve": "The HR Manager will oversee all HR functions including talent acquisition, employee relations, performance management, compensation and benefits, compliance, and organizational development to drive business objectives. The role involves leading the talent acquisition team, managing employee relations, and driving performance management processes. It also requires ensuring compliance with labor laws and regulations, championing diversity and inclusion initiatives, and overseeing HR operations and analytics.",
+  "implicit_soft_skills": [
+    "Leadership",
+    "Team management",
+    "Collaboration",
+    "Communication",
+    "Conflict resolution"
+  ],
+  "domain_tags": [
+    "hr"
+  ],
+  "requires_technical_github_signals": false,
+  "work_context": {
+    "work_mode": "onsite",
+    "location_required": "Bangalore, India",
+    "location_is_hard_requirement": true,
+    "salary_min_lpa": null,
+    "salary_max_lpa": null
+  },
+  "salary_stated": false
+}

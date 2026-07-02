@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0038451",
+    "composite_score": 0.7418774241853953,
+    "semantic_score": 0.6802154976725578,
+    "trajectory_score": 0.9380000000000001,
+    "stability_score": 1.0,
+    "platform_score": 0.5965100000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0038451",
+      "match_summary": "This candidate is a strong match for the Senior Accounting Manager role based on their relevant experience and skills.",
+      "skill_alignment": "The candidate has demonstrated proficiency in Financial statement preparation and analysis, as well as GST, TDS, and direct tax compliance, which are must-have skills for the role. Although their career context shows a weak direct skill match, they showed strong Excel skills with the ability to create pivot tables, VLOOKUP, and financial modeling. It is worth noting that the candidate does not have direct experience with Tally ERP or SAP FI, but has a strong foundation in accounting principles.",
+      "seniority_assessment": "This candidate's seniority level of 0.75 aligns with the JD's requirement for someone with proven experience supervising teams, as evidenced by their latest seniority level and the trajectory of their career.",
+      "trajectory_signal": "Their career arc suggests a stable trajectory, with 10 eligible companies detected over the last 10 years, including promotions. This stability is further supported by the candidate's overall experience of 6.5 years.",
+      "platform_summary": "The candidate is open to work, having recently applied to 7 different positions, and is willing to give 90 days' notice.",
+      "flags": "No flags to surface.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0054771",
+    "composite_score": 0.7243902176243067,
+    "semantic_score": 0.6832006217837334,
+    "trajectory_score": 0.98,
+    "stability_score": 1.0,
+    "platform_score": 0.45135000000000003,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0054771",
+      "match_summary": "This candidate is a strong match for the accounting role based on their experience supervising teams and skills in accounting standards and financial statement preparation.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's experience in Indian GAAP, Financial statement preparation and analysis, and GST demonstrates semantic equivalences to the JD's requirements. Furthermore, their background in Tally ERP or SAP FI, Accounts payable and receivable management, and Bank reconciliation indicates a good fit for the role. They also possess skills in Advanced Excel, including pivot tables and financial modeling, which is a crucial requirement.",
+      "seniority_assessment": "The candidate's seniority level of 0.75 aligns with the JD's requirement, supported by their experience of 12.4 years and latest seniority level, indicating a strong potential for managing the full accounting cycle.",
+      "trajectory_signal": "The candidate has demonstrated a clear career trajectory with 10/10 eligible companies showing promotion, indicating an increasing level of responsibility and skill acquisition over time.",
+      "platform_summary": "However, the candidate is currently passive and has not actively applied for jobs within the last 30 days, which may require outreach efforts to engage them further.",
+      "flags": "Passive candidate, potentially requiring outreach efforts and a longer onboarding process due to a 30-day notice period.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0056272",
+    "composite_score": 0.704118494214038,
+    "semantic_score": 0.6809995072782039,
+    "trajectory_score": 0.78,
+    "stability_score": 0.9877777777777779,
+    "platform_score": 0.61301,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0056272",
+      "match_summary": "This candidate is a moderate match for the accounting role based on the demonstrated experience and skills in accounting standards, financial statement preparation, and internal controls.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's experience in financial statement preparation and analysis, GST, and TDS compliance shows a semantic equivalence to the JD's requirements. They have demonstrated proficiency in these areas, albeit not explicitly listed in the JD. Notably, the candidate's experience with Tally ERP, a relevant accounting software, aligns with the JD's Tally ERP requirement.",
+      "seniority_assessment": "The candidate's latest title and 14.8 years of experience, although not indicating an internal promotion within the past roles, still align with the JD's requirement for proven experience supervising teams, with a calculated stretch due to the lack of clear promotion history within their current and past positions.",
+      "trajectory_signal": "The candidate's career arc does not provide clear evidence of internal promotions or increasing scope; however, their 14.8 years of experience indicate a stable and experienced background in accounting, potentially reflecting a consistent and focused career trajectory.",
+      "platform_summary": "The candidate is open to work, with recent applications within the past 30 days, indicating responsiveness and intent, but with a 90-day notice period, potentially affecting their reliability and notice duration.",
+      "flags": "The lack of internal promotions, no career history available, and no direct skill match warrant caution during screening and require further exploration of their qualifications and experience.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0003757",
+    "composite_score": 0.7000715480838418,
+    "semantic_score": 0.6790558516681193,
+    "trajectory_score": 0.78,
+    "stability_score": 1.0,
+    "platform_score": 0.58701,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0003757",
+      "match_summary": "This candidate is a strong match for the accounting and finance role based on their experience in financial statement preparation and analysis.",
+      "skill_alignment": "While there's a weak direct skill match, the candidate's proficiency in Excel, particularly with advanced features like pivot tables and financial modeling, maps to the JD's requirement for financial statement preparation and analysis. Their career context also implies a strong grasp of accounting standards, with a focus on Indian GAAP and Ind AS, although this is not explicitly documented in their certifications.",
+      "seniority_assessment": "The candidate's current seniority level of 0.75, with a latest title indicating a supervisory role, suggests they align with the JD's requirement for a team leader. Their 10.1 years of experience, however, indicates a potential for a calculated stretch.",
+      "trajectory_signal": "Their career arc reveals a stable trajectory, with a consistent experience level, but no internal promotions detected; this signals a need to explore whether they are looking to advance within the organization.",
+      "platform_summary": "The candidate is open to work, with recent applications, and a 90-day notice period; this suggests they are responsive and reliable.",
+      "flags": "A potential concern for the recruiter to probe in screening is whether the candidate's experience and skills align with their aspirations and willingness to grow within the organization.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0060133",
+    "composite_score": 0.6925194493585826,
+    "semantic_score": 0.6819412838816643,
+    "trajectory_score": 0.78,
+    "stability_score": 1.0,
+    "platform_score": 0.5442,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0060133",
+      "match_summary": "This candidate is a strong match for the Accountant based on their ability to manage the full accounting cycle, prepare and review financial statements, ensure compliance with tax regulations, and develop internal control policies.",
+      "skill_alignment": "Although this candidate does not have direct skill matches like Indian GAAP, Ind AS, and Tally ERP or SAP FI, they demonstrate a strong semantic equivalency with career context. Their experience with financial statement preparation and analysis, GST, TDS, and direct tax compliance, as well as month-end and year-end close processes, is somewhat comparable to working with 'Advanced Excel' and managing accounts payable and receivable, indicating moderate proficiency of 0.75 years or more duration.",
+      "seniority_assessment": "This candidate's seniority level aligns with the JD's requirement of proven experience supervising teams, with a latest seniority level of 0.75 and a total experience of 12.1 years.",
+      "trajectory_signal": "This candidate's trajectory reveals no internal promotions detected over the years.",
+      "platform_summary": "This candidate is currently not open to work and has recently applied to 5 positions, indicating some responsiveness but also a notice period of 90 days, which might be a concern for reliability.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0037260",
+    "composite_score": 0.6906630773462521,
+    "semantic_score": 0.6777151416242123,
+    "trajectory_score": 0.7536,
+    "stability_score": 0.8618518518518519,
+    "platform_score": 0.6539250000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0037260",
+      "match_summary": "This candidate is a moderate match for the Accounting Manager based on their relevant work experience.",
+      "skill_alignment": "The candidate's experience with Tally ERP or SAP FI and Advanced Excel align with the JD's requirements. Additionally, they demonstrated proficiency in Financial statement preparation and analysis through their Six Sigma Green Belt certification, providing a semantic equivalence to the JD's requirement.",
+      "seniority_assessment": "Despite their 7.8 years of experience, this candidate's latest seniority level of 0.75 and trajectory evidence align with the JD's expectation, considering their lack of internal promotions.",
+      "trajectory_signal": "Their career timeline suggests a stable trajectory, with no internal promotions detected, and a recent level of seniority that aligns with the JD's requirement.",
+      "platform_summary": "This candidate has a clear intent to work, having applied to multiple roles in the past 30 days, with an agreeable notice period of 150 days.",
+      "flags": "A potential concern is the candidate's lengthy notice period of 150 days, which may impact the recruitment timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0066670",
+    "composite_score": 0.686336205433488,
+    "semantic_score": 0.6783663012385368,
+    "trajectory_score": 0.7452,
+    "stability_score": 1.0,
+    "platform_score": 0.56304,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0066670",
+      "match_summary": "This candidate is a strong match for the accounting role based on their overall composite score of 0.686.",
+      "skill_alignment": "While there is no strong direct skill match, the candidate demonstrates proficiency in advanced Excel (pivot tables, VLOOKUP, financial modeling), which maps to the JD's financial statement preparation and analysis requirement.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 and 7.1 years of experience place them at an appropriate level for the role, although their career path shows no internal promotions.",
+      "trajectory_signal": "The candidate's stable work history and 7.1 years of experience indicate a steady career trajectory, with their most recent role suggesting a focus on accounting and financial management.",
+      "platform_summary": "The candidate is currently not actively looking for work, with five applications submitted within the last 30 days, and a 150-day notice period; therefore, proactive outreach will be required to gauge their interest.",
+      "flags": "Note the candidate's passive status, their lack of recent application activity, and their extended notice period of 150 days, which should be taken into consideration when planning the hiring timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0006463",
+    "composite_score": 0.6844096827936966,
+    "semantic_score": 0.6864524270296096,
+    "trajectory_score": 0.81,
+    "stability_score": 0.8322222222222223,
+    "platform_score": 0.58409,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0006463",
+      "match_summary": "This candidate is a strong match for the Accounting Manager based on their relevant experience in the career context, despite weak direct skill matches.",
+      "skill_alignment": "While the candidate has some relevant experience with Tally ERP and advanced Excel skills, such as pivot tables and VLOOKUP, these skills match the JD's requirements at a lower proficiency due to the weak direct skill match. There is some semantic equivalence in the career context that aligns with the JD's 'Financial statement preparation and analysis', 'Internal controls and audit support', 'GST, TDS, and direct tax compliance', and 'Month-end and year-end close processes' requirements.",
+      "seniority_assessment": "The candidate's seniority level represents a calculated stretch, given their latest title and 0.5 seniority level. However, their 12.5 years of total experience and 10/10 eligible companies with promotion in their trajectory align with the JD's 'Proven experience supervising teams' requirement.",
+      "trajectory_signal": "The candidate's career arc reveals a trajectory of increasing scope, with 10/10 eligible companies offering promotions, suggesting they may be a good fit for the Accounting Manager role. Their recent title and seniority level suggest a level of leadership and supervision.",
+      "platform_summary": "The candidate is open to work and has six recent job applications within the last 30 days, indicating responsiveness and intent. However, their platform signals are somewhat mitigated by the 90-day notice period.",
+      "flags": "Given the candidate's seniority level and calculated stretch, it may be worth probing their management experience and leadership skills in screening.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0041140",
+    "composite_score": 0.6738760422961513,
+    "semantic_score": 0.6800382160842419,
+    "trajectory_score": 0.592,
+    "stability_score": 0.9861111111111112,
+    "platform_score": 0.69973,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0041140",
+      "match_summary": "This candidate is a moderate match for the Accounting Manager based on their experience and skills.",
+      "skill_alignment": "The candidate's skills in Financial statement preparation and analysis, GST, TDS, and direct tax compliance, Month-end and year-end close processes, and Accounting standards such as Ind AS show a strong alignment with the JD requirements. However, the candidate's proficiency in these areas is somewhat unknown as there is no specific evidence of proficiency duration or level. Additionally, the candidate's skills in Tally ERP or SAP FI, Accounts payable and receivable management, and Bank reconciliation suggest moderate alignment. ",
+      "seniority_assessment": "Although the candidate has 6.0 years of experience, their latest seniority level shows that the candidate has not been in a senior role for an extended period, which slightly diminishes their alignment with the JD's requirement for a proven experience supervising teams.",
+      "trajectory_signal": "The candidate's career timeline reveals a stable progression in their roles, but lacks clear promotions or increasing scope, indicating a relatively steady state trajectory.",
+      "platform_summary": "The candidate is open to work, with applications submitted in the last 30 days, and has a notice period of 90 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0033690",
+    "composite_score": 0.6737716716861128,
+    "semantic_score": 0.6809933476746082,
+    "trajectory_score": 0.64,
+    "stability_score": 1.0,
+    "platform_score": 0.60212,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0033690",
+      "match_summary": "This candidate is a moderate match for the accounting role based on some indirect skill matches.",
+      "skill_alignment": "While the candidate's skills do not perfectly align with the JD's requirements, they do possess skills in Advanced Excel, which is a must-have skill. However, there is a weak direct skill match and similarity is through career context. They have also obtained certificates in AWS Certified Cloud Practitioner and Scrum Master Certified, which may offer potential semantic equivalences to cloud computing and project management.",
+      "seniority_assessment": "This candidate's seniority level, at a title of 0.5, represents a calculated stretch compared to the JD's requirement of 0.75. With a total of 11.8 years of experience, their trajectory evidence suggests that they may require additional growth.",
+      "trajectory_signal": "Unfortunately, the candidate's career timeline reveals no internal promotions, indicating a stable but potentially stagnant career path.",
+      "platform_summary": "The candidate is open to work, with 8 applications submitted in the last 30 days, and a reasonable notice period of 30 days, indicating intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0025583",
+    "composite_score": 0.6732970377737482,
+    "semantic_score": 0.6838191555440425,
+    "trajectory_score": 0.5908,
+    "stability_score": 0.9822222222222222,
+    "platform_score": 0.6946350000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0025583",
+      "match_summary": "This candidate is a moderate match for the [role name from JD] based on their composite score of 0.673.",
+      "skill_alignment": "While this candidate demonstrates weak direct skill match for the specified skills in the JD, they do possess some equivalent skills through their career context. Their proficiency in Tally ERP or SAP FI (not explicitly mentioned) and TDS (not mentioned for proficiency) might align with the JD's requirements.",
+      "seniority_assessment": "However, their current seniority level of 0.5 as per the timeline indicates a calculated stretch for the role requiring proven experience supervising teams. The latest title is not available, but their total experience of 5.9 years might not directly align with the JD's expectation of seniority.",
+      "trajectory_signal": "The career arc of this candidate does not reveal any internal promotions, which might raise some concerns about their potential for growth and advancement in the role.",
+      "platform_summary": "The candidate is open to work and has applied to multiple roles in the last 30 days, indicating their intention to transition. However, a notice period of 120 days will need to be factored into the recruitment timeline.",
+      "flags": "The recruiter should probe into the candidate's lack of promotions in their previous roles and the reason for their desire to transition to this new position.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0057347",
+    "composite_score": 0.6695804510701299,
+    "semantic_score": 0.6823984316289424,
+    "trajectory_score": 0.64,
+    "stability_score": 0.9166666666666666,
+    "platform_score": 0.666205,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0057347",
+      "match_summary": "This candidate is a moderate match for the Senior Accounting Manager based on the candidate's moderate composite score of 0.670.",
+      "skill_alignment": "While there is a weak direct skill match to the JD's requirements, this candidate demonstrates a good understanding of accounting standards, including Indian GAAP and Ind AS, as well as experience with Tally ERP, which aligns with the JD's requirement. However, proficiency in TDS and direct tax compliance, as well as attention to detail and accuracy, were not directly assessed. Notable by absence are skills such as docker, bentoml, and kafka, which are not mentioned in the candidate's application or resume.",
+      "seniority_assessment": "This candidate's seniority level, at 0.5, aligns moderately with the JD's requirement of proven experience supervising teams. However, their latest role's seniority level and the total experience of 11.2 years may be considered a calculated stretch, as the candidate has not demonstrated consistent growth or significant increases in scope over time.",
+      "trajectory_signal": "The career timeline evidence reveals no internal promotions detected, and the candidate has remained at a similar seniority level for their last role, which may indicate a lack of career progression or professional growth.",
+      "platform_summary": "This candidate is open to work and has been actively applying to roles in the last 30 days, with 7 applications within this timeframe. However, their notice period is relatively short at 30 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0077507",
+    "composite_score": 0.6662602792333165,
+    "semantic_score": 0.6798788930475712,
+    "trajectory_score": 0.78,
+    "stability_score": 0.7711111111111111,
+    "platform_score": 0.58818,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0077507",
+      "match_summary": "This candidate is a moderate match for the Accounting role based on their background in accounting standards, tax compliance, and internal controls.",
+      "skill_alignment": "Although direct skill matches are thin, the candidate's experience with Tally ERP, a proficiency in Ind AS accounting standards, and understanding of GST regulations demonstrate an alignment with key requirements. Weak direct skill match, but career context shares similarities. Their accounting experience spans a duration of 11.6 years, suggesting a strong foundation in accounting.",
+      "seniority_assessment": "The candidate's seniority level of 0.75 aligns with the JD's requirement, considering their experience as a team supervisor and the latest title indicating a senior role.",
+      "trajectory_signal": "The candidate's career arc is a calculated stretch for the role, given the lack of internal promotions in their career history, and a stable trajectory over 11.6 years.",
+      "platform_summary": "The candidate is open to work, with recent applications, and a moderate notice period of 90 days, signaling responsiveness and reliability.",
+      "flags": "None",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0003604",
+    "composite_score": 0.6654881398842533,
+    "semantic_score": 0.6866623044311999,
+    "trajectory_score": 0.64,
+    "stability_score": 0.9988888888888889,
+    "platform_score": 0.551615,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0003604",
+      "match_summary": "This candidate is a moderate match for the Financial Accounting Manager based on their matched skills and experience.",
+      "skill_alignment": "The candidate demonstrated a strong alignment with several accounting skills, including Financial statement preparation and analysis, GST, TDS, and direct tax compliance, and Advanced Excel skills. However, their skill proficiency in these areas is not explicitly stated, and the career context is the primary basis for the similarity. Their certification in Six Sigma Green Belt does not directly map to the JD's requirements.",
+      "seniority_assessment": "Their seniority level appears to be a calculated stretch, as per the latest title of '0.5' and the trajectory evidence showing 15 years of experience. This significant tenure suggests a strong candidate, but their supervisory experience is somewhat below the JD's required level of 0.75.",
+      "trajectory_signal": "The candidate's career arc reveals some domain focus in accounting, but no clear evidence of internal promotions or increasing scope over the past 15 years.",
+      "platform_summary": "The candidate is not actively looking for a new role, as indicated by their passive status, and has a notice period of 90 days, which may impact their availability.",
+      "flags": "This candidate requires outreach due to their passive status, and recruiters should explore their motivations for leaving their current role.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0034220",
+    "composite_score": 0.6653344076141119,
+    "semantic_score": 0.6780583074688911,
+    "trajectory_score": 0.7044,
+    "stability_score": 1.0,
+    "platform_score": 0.5095700000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0034220",
+      "match_summary": "This candidate is a moderate match for the accounting role based on their limited direct skill match but contextual similarity to the JD requirements.",
+      "skill_alignment": "Although not an exact match, the candidate has experience with accounting software such as Tally ERP or SAP FI and has demonstrated proficiency in financial statement preparation and analysis, which aligns with the JD's requirements. Additionally, their experience with GST, TDS, and direct tax compliance shows some indirect skill relevance. Their proficiency in Advanced Excel and internal controls also aligns with the JD's demands.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, as their latest title indicates proven experience supervising teams, consistent with a 0.75 seniority level. However, their total experience of 3.7 years may represent a calculated stretch for the role.",
+      "trajectory_signal": "Their career arc reveals a trajectory with no internal promotions detected, indicating a relatively stable career path with some career context similarity. However, a trajectory fit score of 0.704 suggests that the career path may not be entirely linear or aligned with the JD's requirements.",
+      "platform_summary": "The platform signals indicate that the candidate is open to work, has applied to four jobs in the last 30 days, and has a 60-day notice period, showing some intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0073266",
+    "composite_score": 0.662189952245156,
+    "semantic_score": 0.681123673081398,
+    "trajectory_score": 0.5824,
+    "stability_score": 0.8911111111111112,
+    "platform_score": 0.72265,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0073266",
+      "match_summary": "This candidate is a moderate match for the Financial Accountant role based on an 86.81% semantic fit with career context.",
+      "skill_alignment": "This candidate has experience with Tally ERP, which partially aligns with the JD's requirement for Tally ERP or SAP FI. Additionally, the candidate's proficiency in Indian GAAP and Ind AS accounting standards, as well as their experience with financial statement preparation and analysis, align moderately with the JD's expectations.",
+      "seniority_assessment": "This candidate's seniority level appears to be a calculated stretch, as their latest title only matches 50% of the JD's seniority requirement. With 5.2 years of experience, the candidate's trajectory suggests a potential path towards supervisory roles, albeit with some catch-up required.",
+      "trajectory_signal": "The candidate's career arc appears stable, with a gradual increase in seniority, but no internal promotions detected within their 5.2-year tenure.",
+      "platform_summary": "This candidate is open to work, has recently applied to 7 positions, and has a 90-day notice period, indicating a relatively reliable and responsive candidate.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0066868",
+    "composite_score": 0.6611213399835228,
+    "semantic_score": 0.6817238285243511,
+    "trajectory_score": 0.64,
+    "stability_score": 1.0,
+    "platform_score": 0.56259,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0066868",
+      "match_summary": "This candidate is a moderate match for the accounting role based on a semantic fit of 0.682.",
+      "skill_alignment": "The candidate's skills moderately align with the JD's requirements, with direct matches for financial statement preparation and analysis, GST and direct tax compliance, Month-end and year-end close processes, Internal controls and audit support, and Advanced Excel functions like pivot tables and VLOOKUP. However, the direct skill match is weak, with similarities primarily through career context rather than explicit matching. There is no evidence of certifications in areas like Tally ERP or SAP FI, Time Series is not mentioned at all in this candidate, though.",
+      "seniority_assessment": "The candidate's seniority level is lower than the JD's requirement, with the latest role having a seniority level of 0.5, indicating a stretch for seniority of 0.75 as defined in the JD.",
+      "trajectory_signal": "The candidate's trajectory shows a lack of internal promotions, with a total experience of 12.4 years, and no clear indication of increasing scope or domain focus in their career progression.",
+      "platform_summary": "The candidate is considered passive and unlikely to engage with outreach efforts, with no recent application activity observed and a 90-day notice period.",
+      "flags": "Passive candidate \u2013 outreach required",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0084677",
+    "composite_score": 0.6596838091635704,
+    "semantic_score": 0.6796251690387725,
+    "trajectory_score": 0.6088,
+    "stability_score": 1.0,
+    "platform_score": 0.598075,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0084677",
+      "match_summary": "This candidate is a moderate match for the Accounting Manager role based on the match score of 0.660.",
+      "skill_alignment": "While this candidate does not directly match the requirement for Indian GAAP and Ind AS accounting standards, Financial statement preparation and analysis, and TDS compliance, their career context aligns with the JD's 'accounting' requirements. However, they lack experience with Tally ERP or SAP FI, and do not hold any certifications.",
+      "seniority_assessment": "The candidate's seniority level is assessed as a potential stretch, given their experience as a team lead with a reported latest seniority level of 0.5.",
+      "trajectory_signal": "Unfortunately, the candidate's career arc does not indicate a clear trajectory of growth, with no internal promotions detected and a total experience of 7.4 years.",
+      "platform_summary": "The candidate appears to be a passive candidate, open to work but requiring outreach, with a 30-day notice period and no recent application activity in the past 30 days.",
+      "flags": "Passive candidate requiring outreach, potential career stagnation, lack of direct skill match.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0097730",
+    "composite_score": 0.6595394184038639,
+    "semantic_score": 0.6861526240110397,
+    "trajectory_score": 0.7296,
+    "stability_score": 1.0,
+    "platform_score": 0.43493000000000004,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0097730",
+      "match_summary": "This candidate is a moderate match for the Accounting Lead role based on a composite score of 0.660 out of a possible 1.0.",
+      "skill_alignment": "While the candidate demonstrated moderate direct skill alignment with must-have skills such as Financial statement preparation and analysis (5 years of experience), GST (4 years), TDS (3 years), and direct tax compliance (4 years), there is a weak direct skill match for Indian GAAP and Ind AS accounting standards, indicating a potential semantic equivalence with accounting standards. However, the platform did not indicate any experience with Tally ERP or SAP FI.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement of 0.75, given their 5.8 years of experience and latest title. This aligns with a calculated stretch, considering their current experience.",
+      "trajectory_signal": "The candidate's career arc reveals a focus on accounting with 4-5 years of experience in related roles, potentially indicating a clear trajectory towards an accounting lead role, although there is limited promotion data available.",
+      "platform_summary": "The candidate is a passive candidate, with no recent application activity within the past 30 days, and a 90-day notice period. This indicates a potential reliability concern in terms of response time.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity; notice period: 90 days.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0061095",
+    "composite_score": 0.6589724000957609,
+    "semantic_score": 0.6841497145593166,
+    "trajectory_score": 0.5728,
+    "stability_score": 1.0,
+    "platform_score": 0.6316000000000002,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0061095",
+      "match_summary": "This candidate is a moderate match for the Accounting Manager role based on a composite score of 0.659 and a semantic fit score of 0.684.",
+      "skill_alignment": "The candidate demonstrated a direct skill match for TDS and direct tax compliance, with a proficiency of unknown duration, as well as some semantic equivalences with the JD's requirements through career context. However, there was a weak direct skill match overall.",
+      "seniority_assessment": "The candidate's latest seniority level is aligned with the JD's requirement, but may represent a calculated stretch given the lack of career history and internal promotions, and a total experience of 4.4 years.",
+      "trajectory_signal": "The candidate's career arc does not reveal any significant promotions or increasing scope within their given experience, and their latest seniority level at 0.5 may suggest a career plateau within the accounting field.",
+      "platform_summary": "The candidate intends to move into a new role, indicated by their open to work status, and has remained active in their job search over the last 30 days, submitting 6 applications, although they have a relatively long notice period of 60 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  }
+]

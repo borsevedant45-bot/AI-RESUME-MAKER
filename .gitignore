@@ -15,6 +15,21 @@ data/raw/
 data/processed/
 data/outputs/*
 !data/outputs/ranked_output.xlsx
+!data/outputs/de/
+!data/outputs/hr/
+!data/outputs/analyst/
+!data/outputs/pm/
+!data/outputs/accountant/
+!data/outputs/de/ranked_output.csv
+!data/outputs/de/ranked_output.json
+!data/outputs/hr/ranked_output.csv
+!data/outputs/hr/ranked_output.json
+!data/outputs/analyst/ranked_output.csv
+!data/outputs/analyst/ranked_output.json
+!data/outputs/pm/ranked_output.csv
+!data/outputs/pm/ranked_output.json
+!data/outputs/accountant/ranked_output.csv
+!data/outputs/accountant/ranked_output.json
 data/jd_intent.json
 
 # Binary vector files

@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0017046",
+    "composite_score": 0.73666214950186,
+    "semantic_score": 0.6786432842910289,
+    "trajectory_score": 0.9776,
+    "stability_score": 1.0,
+    "platform_score": 0.49868500000000004,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0017046",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and certifications, including a Scrum Master Certified certification.",
+      "skill_alignment": "The candidate's skills, although not a direct match, show similarity to the job description through their career context, with a focus on skills like Scrum and project management. Their experience with Agile and Scrum methodologies is also notable. The candidate's skill set, while not perfectly matched, demonstrates a strong understanding of project planning and management.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 9.8 years of experience, aligns with the job description, indicating they have the necessary experience to lead cross-functional initiatives. Their seniority level suggests a strong ability to manage complex projects and stakeholders.",
+      "trajectory_signal": "Their career arc reveals a steady progression, with detected promotions in eligible companies, indicating a strong ability to grow and take on new challenges. The candidate's trajectory also shows a focus on project management and leadership.",
+      "platform_summary": "The candidate is not actively open to work and has a notice period of 30 days, which may impact their availability and responsiveness to job offers. However, their application history shows some recent activity, with 5 applications in the last 30 days.",
+      "flags": "The candidate is flagged as passive, requiring outreach, and has no recent application activity, which may impact their interest in the role.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0098735",
+    "composite_score": 0.7331769675893783,
+    "semantic_score": 0.6820999073982239,
+    "trajectory_score": 0.98,
+    "stability_score": 0.8833333333333333,
+    "platform_score": 0.55971,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0098735",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and certifications, including a Scrum Master Certified certification and an AWS Certified Cloud Practitioner certification.",
+      "skill_alignment": "The candidate's skills, although not a direct match, show similarity to the job description through their career context, with a focus on skills like Scrum, project management, and vendor management. Their experience with Agile and Scrum methodologies is also notable. The candidate's skill set, while not perfectly matched, demonstrates a strong understanding of project planning and management.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 13.4 years of experience, aligns with the job description, indicating they have the necessary experience to lead cross-functional initiatives. Their seniority level suggests a strong ability to manage complex projects and stakeholders.",
+      "trajectory_signal": "Their career arc reveals a steady progression, with detected promotions in eligible companies, indicating a strong ability to grow and take on new challenges. The candidate's trajectory also shows a focus on project management and leadership.",
+      "platform_summary": "The candidate is open to work and has a notice period of 60 days, which may impact their availability and responsiveness to job offers. Their application history shows some recent activity, with 5 applications in the last 30 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0095666",
+    "composite_score": 0.7122607227905988,
+    "semantic_score": 0.6832049222588539,
+    "trajectory_score": 0.7296,
+    "stability_score": 0.9583333333333334,
+    "platform_score": 0.709945,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0095666",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and certifications, including a Scrum Master Certified certification.",
+      "skill_alignment": "The candidate's skills, although not a direct match, show similarity to the job description through their career context, with a focus on skills like Scrum, project management, and stakeholder management. Their experience with Agile and Scrum methodologies is also notable. The candidate's skill set, while not perfectly matched, demonstrates a strong understanding of project planning and management.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 5.8 years of experience, may represent a calculated stretch for the role, as they have less experience than some other candidates. However, their seniority level still suggests a strong ability to manage projects and stakeholders.",
+      "trajectory_signal": "Their career arc reveals limited information, with no internal promotions detected, but their total experience of 5.8 years indicates some level of progression. The candidate's trajectory also shows a focus on project management and leadership.",
+      "platform_summary": "The candidate is open to work and has a notice period of 60 days, which may impact their availability and responsiveness to job offers. Their application history shows some recent activity, with 8 applications in the last 30 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0063552",
+    "composite_score": 0.7086568519365853,
+    "semantic_score": 0.6827049737870693,
+    "trajectory_score": 0.95,
+    "stability_score": 0.8240740740740741,
+    "platform_score": 0.517995,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0063552",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and certifications, including a Six Sigma Green Belt certification.",
+      "skill_alignment": "The candidate's skills, although not a direct match, show similarity to the job description through their career context, with a focus on skills like project planning, stakeholder management, and risk management. Their experience with data pipelines and project management is also notable. The candidate's skill set, while not perfectly matched, demonstrates a strong understanding of project planning and management.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 7.5 years of experience, aligns with the job description, indicating they have the necessary experience to lead cross-functional initiatives. Their seniority level suggests a strong ability to manage complex projects and stakeholders.",
+      "trajectory_signal": "Their career arc reveals a steady progression, with detected promotions in eligible companies, indicating a strong ability to grow and take on new challenges. The candidate's trajectory also shows a focus on project management and leadership.",
+      "platform_summary": "The candidate is not actively open to work and has a notice period of 90 days, which may impact their availability and responsiveness to job offers. Their application history shows some recent activity, with 5 applications in the last 30 days.",
+      "flags": "The candidate is flagged as passive, requiring outreach, and has no recent application activity, which may impact their interest in the role.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0077610",
+    "composite_score": 0.70626136321038,
+    "semantic_score": 0.6786467520296573,
+    "trajectory_score": 0.7104,
+    "stability_score": 1.0,
+    "platform_score": 0.705675,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0077610",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and skill similarity.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's career context shows similarity to the required skills, including project planning and scheduling, and stakeholder management, which could be equivalent to skills like sales or spring boot in a different context. The candidate's skills, such as kubernetes or spark, map to the JD's project management requirements. The candidate has demonstrated proficiency in these skills over 4.2 years of experience.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 aligns with the JD's requirement, indicating they have the necessary experience to lead cross-functional initiatives. The total experience of 4.2 years also suggests they have a good foundation to take on this role.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 4.2 years, with no internal promotions detected, indicating a potential for growth in this new role. The trajectory evidence suggests the candidate is ready for a new challenge.",
+      "platform_summary": "The candidate is open to work and has shown responsiveness with 7 applications in the last 30 days, demonstrating their intent and reliability. The notice period of 90 days should be considered when planning the hiring timeline.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0069851",
+    "composite_score": 0.7038698553815218,
+    "semantic_score": 0.6788722852170467,
+    "trajectory_score": 0.7548,
+    "stability_score": 0.8803703703703704,
+    "platform_score": 0.7275450000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0069851",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and skill similarity.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's career context shows similarity to the required skills, including project planning and scheduling, and stakeholder management, which could be equivalent to skills like sql or excel in a different context. The candidate's skills, such as fastapi or html, map to the JD's project management requirements. The candidate has demonstrated proficiency in these skills over 7.9 years of experience.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 aligns with the JD's requirement, indicating they have the necessary experience to lead cross-functional initiatives. The total experience of 7.9 years also suggests they have a strong foundation to take on this role.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 7.9 years, with no internal promotions detected, indicating a potential for growth in this new role. However, the candidate is not currently open to work, which may require outreach.",
+      "platform_summary": "The candidate has shown some application activity with 7 applications in the last 30 days, but is not currently open to work, demonstrating a need for outreach. The notice period of 30 days should be considered when planning the hiring timeline.",
+      "flags": "The candidate is a passive candidate and requires outreach, and there has been no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0089999",
+    "composite_score": 0.7012524335637091,
+    "semantic_score": 0.6839669530391692,
+    "trajectory_score": 0.7032,
+    "stability_score": 1.0,
+    "platform_score": 0.68032,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0089999",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and skill similarity.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's career context shows similarity to the required skills, including project planning and scheduling, and stakeholder management, which could be equivalent to skills like kubernetes or gcp in a different context. The candidate's skills, such as seo or ci/cd, map to the JD's project management requirements. The candidate has demonstrated proficiency in these skills over 3.6 years of experience.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 aligns with the JD's requirement, indicating they have the necessary experience to lead cross-functional initiatives. The total experience of 3.6 years also suggests they have a good foundation to take on this role, although it may be a bit of a stretch.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 3.6 years, with no internal promotions detected, indicating a potential for growth in this new role. The trajectory evidence suggests the candidate is ready for a new challenge.",
+      "platform_summary": "The candidate is open to work and has shown responsiveness with 8 applications in the last 30 days, demonstrating their intent and reliability. The notice period of 120 days should be considered when planning the hiring timeline.",
+      "flags": "The notice period is 120 days, which should be considered when planning the hiring timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0072953",
+    "composite_score": 0.7014995483048558,
+    "semantic_score": 0.6771615665853024,
+    "trajectory_score": 0.7488,
+    "stability_score": 1.0,
+    "platform_score": 0.6364650000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0072953",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on their career context and skill similarity.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's career context shows similarity to the required skills, including project planning and scheduling, and stakeholder management, which could be equivalent to skills like six sigma or fastapi in a different context. The candidate's skills, such as gcp or dbt, map to the JD's project management requirements. The candidate has demonstrated proficiency in these skills over 7.4 years of experience.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 aligns with the JD's requirement, indicating they have the necessary experience to lead cross-functional initiatives. The total experience of 7.4 years also suggests they have a strong foundation to take on this role.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 7.4 years, with no internal promotions detected, indicating a potential for growth in this new role. The trajectory evidence suggests the candidate is ready for a new challenge.",
+      "platform_summary": "The candidate is open to work and has shown responsiveness with 8 applications in the last 30 days, demonstrating their intent and reliability. The notice period of 90 days should be considered when planning the hiring timeline.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0010093",
+    "composite_score": 0.6918387138228813,
+    "semantic_score": 0.6870715633034705,
+    "trajectory_score": 0.78,
+    "stability_score": 0.8502777777777778,
+    "platform_score": 0.61911,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0010093",
+      "match_summary": "This candidate is a strong match for the role based on their 10.2 years of experience and skills that align with the job description, such as project management and stakeholder communication.",
+      "skill_alignment": "The candidate's skills, including risk and issue management, budget management, and Agile and Scrum methodologies, match the JD's requirements, although the direct skill match is weak and similarity is through career context. They have experience with tools like JIRA or equivalent project management tools and MS Project, and their career context suggests proficiency in skills like hadoop and kafka.",
+      "seniority_assessment": "This candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75 and 10.2 years of experience, indicating a lead role. Their total experience suggests they have the necessary expertise to lead cross-functional initiatives.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, but a total experience of 10.2 years, suggesting increasing scope and domain focus.",
+      "platform_summary": "The candidate is open to work and has applied to 7 jobs in the last 30 days, indicating a high level of intent and responsiveness, with a notice period of 60 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0037260",
+    "composite_score": 0.6903659826167093,
+    "semantic_score": 0.6768662995398044,
+    "trajectory_score": 0.7536,
+    "stability_score": 0.8618518518518519,
+    "platform_score": 0.6539250000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0037260",
+      "match_summary": "This candidate is a strong match for the role based on their 7.8 years of experience and skills that align with the job description, such as project planning and stakeholder management.",
+      "skill_alignment": "The candidate's skills, including budget management and resource allocation, Agile and Scrum methodologies, and team leadership, match the JD's requirements, although the direct skill match is weak and similarity is through career context. They have experience with tools like JIRA and MS Project, and their career context suggests proficiency in skills like bigquery and redis.",
+      "seniority_assessment": "This candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75 and 7.8 years of experience, indicating a lead role. Their total experience suggests they have the necessary expertise to lead cross-functional initiatives.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, but a total experience of 7.8 years, suggesting increasing scope and domain focus.",
+      "platform_summary": "The candidate is open to work and has applied to 8 jobs in the last 30 days, indicating a high level of intent and responsiveness, with a notice period of 150 days.",
+      "flags": "Notice period is 150 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0080409",
+    "composite_score": 0.6892125747210384,
+    "semantic_score": 0.6844044992029666,
+    "trajectory_score": 0.7092,
+    "stability_score": 1.0,
+    "platform_score": 0.611855,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0080409",
+      "match_summary": "This candidate is a strong match for the role based on their 4.1 years of experience and skills that align with the job description, such as project planning and team leadership.",
+      "skill_alignment": "The candidate's skills, including stakeholder management and communication, risk and issue management, and Agile and Scrum methodologies, match the JD's requirements, although the direct skill match is weak and similarity is through career context. They have experience with tools like JIRA and MS Project, and their career context suggests proficiency in skills like excel and dbt.",
+      "seniority_assessment": "This candidate's seniority level may represent a calculated stretch, with a latest seniority level of 0.75 and 4.1 years of experience, indicating potential for growth into a lead role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, but a total experience of 4.1 years, suggesting increasing scope and domain focus.",
+      "platform_summary": "The candidate is open to work and has applied to 7 jobs in the last 30 days, indicating a high level of intent and responsiveness, with a notice period of 90 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0010349",
+    "composite_score": 0.685795406114022,
+    "semantic_score": 0.6788649698495864,
+    "trajectory_score": 0.6948,
+    "stability_score": 0.9744444444444444,
+    "platform_score": 0.61663,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0010349",
+      "match_summary": "This candidate is a strong match for the role based on their 2.9 years of experience and skills that align with the job description, such as project planning and stakeholder communication.",
+      "skill_alignment": "The candidate's skills, including risk and issue management, budget management, and Agile and Scrum methodologies, match the JD's requirements, although the direct skill match is weak and similarity is through career context. They have experience with tools like JIRA and MS Project, and their career context suggests proficiency in skills like react and aws.",
+      "seniority_assessment": "This candidate's seniority level may represent a calculated stretch, with a latest seniority level of 0.75 and 2.9 years of experience, indicating potential for growth into a lead role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, but a total experience of 2.9 years, suggesting increasing scope and domain focus.",
+      "platform_summary": "The candidate is open to work and has applied to 7 jobs in the last 30 days, indicating a high level of intent and responsiveness, with a notice period of 150 days.",
+      "flags": "Notice period is 150 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0053520",
+    "composite_score": 0.6845249669003487,
+    "semantic_score": 0.685128476858139,
+    "trajectory_score": 0.7008,
+    "stability_score": 1.0,
+    "platform_score": 0.57265,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0053520",
+      "match_summary": "This candidate is a strong match for the lead cross-functional initiatives role based on a combination of their skillset and career context.",
+      "skill_alignment": "The candidate's skills show a weak direct match but similarity to the job description through their career context, with no specific skills like mongodb, azure, or vue.js mentioned, however the context suggests potential in project management areas. Their proficiency and duration in these skills are not explicitly stated. The semantic equivalences are also not clearly defined in the provided evidence.",
+      "seniority_assessment": "This candidate's seniority level, with 3.4 years of experience and a latest seniority level of 0.75, aligns with the role's requirement, suggesting they could lead cross-functional initiatives. Their trajectory evidence does not show internal promotions, indicating a possible need for growth into the role.",
+      "trajectory_signal": "The career arc of this candidate reveals a steady progression but lacks detailed information on promotions, increasing scope, or domain focus, due to the absence of career history. Their total experience of 3.4 years indicates potential for further growth.",
+      "platform_summary": "The candidate is open to work, has submitted 8 applications in the last 30 days, and has a notice period of 120 days, indicating a level of intent and responsiveness, albeit with a significant notice period to consider.",
+      "flags": "The recruiter should be aware of the 120-day notice period when planning timelines for this candidate.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0008236",
+    "composite_score": 0.6785435601844192,
+    "semantic_score": 0.6891158862411976,
+    "trajectory_score": 0.7008,
+    "stability_score": 1.0,
+    "platform_score": 0.535765,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0008236",
+      "match_summary": "This candidate is a moderate match for the lead cross-functional initiatives role based on a blend of their skills and career trajectory.",
+      "skill_alignment": "The candidate demonstrates a weak direct skill match but shares similarities with the job description through their career context. Specific skills such as statistical modeling, typescript, or aws are not mentioned but could be implied through the context. The candidate's proficiency and the duration of these skills are not detailed in the evidence.",
+      "seniority_assessment": "With 3.4 years of experience and a seniority level of 0.75, this candidate's background aligns with the role's seniority requirement, suggesting they are ready to lead initiatives. The lack of internal promotions in their trajectory may indicate a need for development into the position.",
+      "trajectory_signal": "The candidate's career progression over 3.4 years shows no internal promotions and limited career history, suggesting a need for further details on their growth and domain focus.",
+      "platform_summary": "The candidate is open to work, with 6 applications in the last 30 days and a 120-day notice period, indicating some level of job search activity and a significant notice period.",
+      "flags": "The recruiter should consider the 120-day notice period when planning for this candidate.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0073774",
+    "composite_score": 0.6745508125497899,
+    "semantic_score": 0.6835070834755897,
+    "trajectory_score": 0.78,
+    "stability_score": 0.7488888888888889,
+    "platform_score": 0.63995,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0073774",
+      "match_summary": "This candidate is a moderate match for the lead cross-functional initiatives role based on their career context and skills alignment.",
+      "skill_alignment": "Although the candidate shows a weak direct skill match, their career context suggests relevance to the role, with potential in areas like project management or typescript, though these are not explicitly mentioned. Their skill duration and proficiency are not detailed in the evidence.",
+      "seniority_assessment": "With 11.3 years of experience and a latest seniority level of 0.75, this candidate's background exceeds the role's seniority requirement, positioning them well to lead cross-functional initiatives. Their trajectory indicates no internal promotions, which may suggest a stable career path.",
+      "trajectory_signal": "The candidate's long career span of 11.3 years indicates a significant amount of experience, though the lack of detailed career history limits insight into their career progression and domain focus.",
+      "platform_summary": "The candidate is open to work, has applied to 8 jobs in the last 30 days, and has a notice period of 120 days, showing intent and some level of responsiveness, along with a considerable notice period.",
+      "flags": "The recruiter should plan around the candidate's 120-day notice period.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0053961",
+    "composite_score": 0.674998122926116,
+    "semantic_score": 0.6802489226460458,
+    "trajectory_score": 0.6984,
+    "stability_score": 1.0,
+    "platform_score": 0.561555,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0053961",
+      "match_summary": "This candidate is a moderate match for the lead cross-functional initiatives role based on their skills and career progression.",
+      "skill_alignment": "The candidate exhibits a weak direct skill match but a career context similar to the job's requirements, with potential relevance in areas like salesforce crm, powerpoint, or postgresql, though these are not explicitly stated. The evidence lacks details on their skill proficiency and duration.",
+      "seniority_assessment": "With 3.2 years of experience and a seniority level of 0.75, the candidate's background aligns with the role's requirement, indicating potential to lead initiatives. The absence of internal promotions in their trajectory may suggest a calculated stretch into the role.",
+      "trajectory_signal": "The candidate's career over 3.2 years shows no internal promotions and limited available history, suggesting a need for more information on their career growth and focus areas.",
+      "platform_summary": "Although the candidate is not open to work and has a shorter notice period of 60 days, they have submitted 6 applications in the last 30 days, indicating some level of job search activity but requiring outreach due to their passive status.",
+      "flags": "The candidate is passive, requiring outreach, and has a shorter notice period of 60 days, which the recruiter should consider in their approach.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0052647",
+    "composite_score": 0.6736415588474275,
+    "semantic_score": 0.6788044538497925,
+    "trajectory_score": 0.7092,
+    "stability_score": 1.0,
+    "platform_score": 0.5188,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0052647",
+      "match_summary": "Candidate scored CAND_0052647 based on 4.1 years experience with skills: object detection (0.65), snowflake (0.47), vue.js (0.42), next.js (0.39), javascript (0.25).",
+      "skill_alignment": "Key skills present: object detection (0.65), snowflake (0.47), vue.js (0.42), next.js (0.39), javascript (0.25)",
+      "seniority_assessment": "Seniority level: 0.75",
+      "trajectory_signal": "Promotion rate: 0.00; Average tenure: 49.0 months",
+      "platform_summary": "Active intent score: 0.51; Hire reliability: 0.53",
+      "flags": "No flags",
+      "grounding_validated": false
+    }
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0077151",
+    "composite_score": 0.6728751415195465,
+    "semantic_score": 0.6793746900558472,
+    "trajectory_score": 0.6996,
+    "stability_score": 1.0,
+    "platform_score": 0.52597,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0077151",
+      "match_summary": "Candidate scored CAND_0077151 based on 3.3 years experience with skills: redux (0.47), statistical modeling (0.40), redis (0.25), apache flink (0.24), rust (0.18).",
+      "skill_alignment": "Key skills present: redux (0.47), statistical modeling (0.40), redis (0.25), apache flink (0.24), rust (0.18)",
+      "seniority_assessment": "Seniority level: 0.75",
+      "trajectory_signal": "Promotion rate: 0.00; Average tenure: 39.0 months",
+      "platform_summary": "Active intent score: 0.48; Hire reliability: 0.58",
+      "flags": "No flags",
+      "grounding_validated": false
+    }
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0099387",
+    "composite_score": 0.6705690286260247,
+    "semantic_score": 0.6798143675029278,
+    "trajectory_score": 0.6996,
+    "stability_score": 1.0,
+    "platform_score": 0.5136700000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0099387",
+      "match_summary": "Candidate scored CAND_0099387 based on 3.3 years experience with skills: redux (0.50), sap (0.40), dbt (0.25), javascript (0.24), mongodb (0.17).",
+      "skill_alignment": "Key skills present: redux (0.50), sap (0.40), dbt (0.25), javascript (0.24), mongodb (0.17)",
+      "seniority_assessment": "Seniority level: 0.75",
+      "trajectory_signal": "Promotion rate: 0.00; Average tenure: 39.0 months",
+      "platform_summary": "Active intent score: 0.53; Hire reliability: 0.49",
+      "flags": "No flags",
+      "grounding_validated": false
+    }
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0026005",
+    "composite_score": 0.6695628447713853,
+    "semantic_score": 0.6767681279182435,
+    "trajectory_score": 0.7296,
+    "stability_score": 0.9583333333333334,
+    "platform_score": 0.5327200000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0026005",
+      "match_summary": "Candidate scored CAND_0026005 based on 5.8 years experience with skills: data pipelines (0.43), spark (0.39), docker (0.35), spring boot (0.33), graphql (0.25).",
+      "skill_alignment": "Key skills present: data pipelines (0.43), spark (0.39), docker (0.35), spring boot (0.33), graphql (0.25)",
+      "seniority_assessment": "Seniority level: 0.75",
+      "trajectory_signal": "Promotion rate: 0.00; Average tenure: 34.5 months",
+      "platform_summary": "Active intent score: 0.59; Hire reliability: 0.47",
+      "flags": "Long notice period (120 days)",
+      "grounding_validated": false
+    }
+  }
+]

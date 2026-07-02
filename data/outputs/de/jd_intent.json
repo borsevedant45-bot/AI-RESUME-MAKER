@@ -1,0 +1,38 @@
+{
+  "seniority_level": 0.75,
+  "seniority_evidence": "own the intelligence layer of Redrob's product",
+  "must_have_skills": [
+    "Production experience with embeddings-based retrieval systems",
+    "Production experience with vector databases or hybrid search infrastructure",
+    "Strong Python",
+    "Hands-on experience designing evaluation frameworks for ranking systems"
+  ],
+  "nice_to_have_skills": [
+    "LLM fine-tuning experience (LoRA, QLoRA, PEFT)",
+    "Experience with learning-to-rank models (XGBoost-based or neural)",
+    "Prior exposure to HR-tech, recruiting tech, or marketplace products",
+    "Background in distributed systems or large-scale inference optimization",
+    "Open-source contributions in the AI/ML space"
+  ],
+  "core_problems_to_solve": "The high-level mandate is to own the intelligence layer of Redrob's product, which includes the ranking, retrieval, and matching systems that decide what recruiters see when they search for candidates and what candidates see when they search for roles. The role involves designing and developing a v2 ranking system, setting up evaluation infrastructure, and driving the long-term architecture of candidate-JD matching at scale.",
+  "implicit_soft_skills": [
+    "Ownership",
+    "Leadership",
+    "Mentoring",
+    "Collaboration",
+    "Communication"
+  ],
+  "domain_tags": [
+    "mlops",
+    "data-engineering"
+  ],
+  "requires_technical_github_signals": true,
+  "work_context": {
+    "work_mode": "hybrid",
+    "location_required": "Pune/Noida",
+    "location_is_hard_requirement": false,
+    "salary_min_lpa": null,
+    "salary_max_lpa": null
+  },
+  "salary_stated": false
+}

@@ -1,0 +1,46 @@
+{
+  "seniority_level": 0.75,
+  "seniority_evidence": "lead cross-functional initiatives",
+  "must_have_skills": [
+    "Project planning and scheduling",
+    "Stakeholder management and communication",
+    "Risk and issue management",
+    "Budget management and resource allocation",
+    "Agile and Scrum methodologies",
+    "JIRA or equivalent project management tools",
+    "MS Project or similar planning tools",
+    "Team leadership and facilitation",
+    "Problem-solving and decision making",
+    "Vendor management"
+  ],
+  "nice_to_have_skills": [
+    "PMP or PRINCE2 certification",
+    "Scrum Master certification (CSM, PSM)",
+    "Experience with SAFe or other scaled agile frameworks",
+    "Technical background or understanding of software development",
+    "Experience with data analytics or AI projects",
+    "Change management experience"
+  ],
+  "core_problems_to_solve": "The successful candidate will lead cross-functional initiatives, define project scope and deliverables, manage stakeholders and project resources, identify and mitigate risks, and ensure projects are delivered on time and within budget. The role requires driving successful project delivery and managing vendor relationships. The candidate will also be responsible for maintaining project documentation and driving continuous improvement in project management processes.",
+  "implicit_soft_skills": [
+    "Leadership",
+    "Collaboration",
+    "Communication",
+    "Problem-solving",
+    "Decision making",
+    "Negotiation",
+    "Conflict resolution"
+  ],
+  "domain_tags": [
+    "project-management"
+  ],
+  "requires_technical_github_signals": false,
+  "work_context": {
+    "work_mode": "hybrid",
+    "location_required": "Delhi, India",
+    "location_is_hard_requirement": true,
+    "salary_min_lpa": null,
+    "salary_max_lpa": null
+  },
+  "salary_stated": false
+}

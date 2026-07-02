@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0062271",
+    "composite_score": 0.7414594125960138,
+    "semantic_score": 0.6929513375759124,
+    "trajectory_score": 0.736,
+    "stability_score": 0.8896296296296297,
+    "platform_score": 0.90741,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0062271",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall composite score of 0.741, which suggests a solid alignment with the role requirements.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context shows similarity to the required skills, such as SQL, Data visualization, and Python for data analysis, which could be equivalent to skills like time series or forecasting in certain contexts. The candidate's background indicates a potential for semantic equivalences, such as experience with data storytelling and presentation, which is crucial for the role.",
+      "seniority_assessment": "The candidate's seniority level, with a total experience of 8.0 years and a latest seniority level of 0.5, aligns with the JD's requirement for a Mid-Level Data Analyst, suggesting they have the necessary experience for the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, indicating a potential for growth and increasing scope, which could be beneficial for the role's requirements, including working with large datasets and conducting A/B testing.",
+      "platform_summary": "The platform evidence indicates the candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 90 days, showing intent and responsiveness, but also highlighting the need to plan the timeline accordingly.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0057065",
+    "composite_score": 0.732675135160923,
+    "semantic_score": 0.6966032433169228,
+    "trajectory_score": 0.7336,
+    "stability_score": 1.0,
+    "platform_score": 0.7523200000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0057065",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall composite score of 0.733, which suggests a solid alignment with the role requirements.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context shows similarity to the required skills, such as SQL, Data visualization, and Python for data analysis, which could be equivalent to skills like statistical modeling or project management in certain contexts. The candidate's background indicates a potential for semantic equivalences, such as experience with data storytelling and presentation, which is crucial for the role, and they also hold a Six Sigma Green Belt certification.",
+      "seniority_assessment": "The candidate's seniority level, with a total experience of 7.8 years and a latest seniority level of 0.5, aligns with the JD's requirement for a Mid-Level Data Analyst, suggesting they have the necessary experience for the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, indicating a potential for growth and increasing scope, which could be beneficial for the role's requirements, including working with large datasets and conducting A/B testing.",
+      "platform_summary": "The platform evidence indicates the candidate is open to work, has applied to 8 jobs in the last 30 days, and has a notice period of 120 days, showing intent and responsiveness, but also highlighting the need to plan the timeline accordingly.",
+      "flags": "The candidate's notice period is 120 days, which should be taken into account when planning the hiring timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0038195",
+    "composite_score": 0.7284721227793693,
+    "semantic_score": 0.6938403507981981,
+    "trajectory_score": 0.712,
+    "stability_score": 1.0,
+    "platform_score": 0.7881400000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0038195",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall composite score of 0.728, which suggests a solid alignment with the role requirements.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context shows similarity to the required skills, such as SQL, Data visualization, and Python for data analysis, which could be equivalent to skills like opencv or image classification in certain contexts. The candidate's background indicates a potential for semantic equivalences, such as experience with data storytelling and presentation, which is crucial for the role.",
+      "seniority_assessment": "The candidate's seniority level, with a total experience of 6.0 years and a latest seniority level of 0.5, aligns with the JD's requirement for a Mid-Level Data Analyst, suggesting they have the necessary experience for the role, although it may represent a slight stretch.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, indicating a potential for growth and increasing scope, which could be beneficial for the role's requirements, including working with large datasets and conducting A/B testing.",
+      "platform_summary": "The platform evidence indicates the candidate is open to work, has applied to 10 jobs in the last 30 days, and has a notice period of 120 days, showing intent and responsiveness, but also highlighting the need to plan the timeline accordingly.",
+      "flags": "The candidate's notice period is 120 days, which should be taken into account when planning the hiring timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0074835",
+    "composite_score": 0.7226347568936349,
+    "semantic_score": 0.6935078768389566,
+    "trajectory_score": 0.7072,
+    "stability_score": 0.9166666666666666,
+    "platform_score": 0.8280350000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0074835",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall composite score of 0.723, which suggests a solid alignment with the role requirements.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context shows similarity to the required skills, such as SQL, Data visualization, and Python for data analysis, which could be equivalent to skills like qdrant or forecasting in certain contexts. The candidate's background indicates a potential for semantic equivalences, such as experience with data storytelling and presentation, which is crucial for the role.",
+      "seniority_assessment": "The candidate's seniority level, with a total experience of 5.6 years and a latest seniority level of 0.5, may represent a slight stretch for the JD's requirement for a Mid-Level Data Analyst, but their potential for growth and increasing scope could be beneficial for the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, indicating a potential for growth and increasing scope, which could be beneficial for the role's requirements, including working with large datasets and conducting A/B testing.",
+      "platform_summary": "The platform evidence indicates the candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 120 days, showing intent and responsiveness, but also highlighting the need to plan the timeline accordingly.",
+      "flags": "The candidate's notice period is 120 days, which should be taken into account when planning the hiring timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0059145",
+    "composite_score": 0.7218070203747483,
+    "semantic_score": 0.6930241851976939,
+    "trajectory_score": 0.7348,
+    "stability_score": 0.8803703703703704,
+    "platform_score": 0.7924650000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0059145",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their composite score of 0.722.",
+      "skill_alignment": "The candidate demonstrated a weak direct skill match, with similarity to the role requirements through their career context, which includes skills like Excel, a crucial requirement for the role. Although the exact skills matched are not specified, their career context suggests some alignment with the JD's requirements, including data analysis and possibly data visualization tools like Tableau or Power BI, and SQL. No specific semantic equivalences are mentioned, but their experience suggests potential in areas like statistical analysis and data storytelling.",
+      "seniority_assessment": "This candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5, indicating mid-level experience. Their total experience of 7.9 years supports this assessment, suggesting they have the necessary depth of experience for the role.",
+      "trajectory_signal": "The candidate's career arc, with 7.9 years of total experience and a latest seniority level of 0.5, indicates a stable progression, although no internal promotions were detected. This suggests a potential for growth and adaptability in a new role.",
+      "platform_summary": "The candidate is open to work, has a notice period of 60 days, and has shown activity with 8 applications in the last 30 days, indicating both intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0092494",
+    "composite_score": 0.7215488699855804,
+    "semantic_score": 0.6925139142445156,
+    "trajectory_score": 0.6964,
+    "stability_score": 1.0,
+    "platform_score": 0.7753450000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0092494",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their composite score of 0.722.",
+      "skill_alignment": "The candidate shows a weak direct skill match but has a career context similar to the role requirements, which could include skills like data visualization using tools such as Tableau, Power BI, or Looker, and proficiency in SQL. Their background may also touch upon aspects of statistical analysis, hypothesis testing, and possibly Python for data analysis. While no direct equivalences are mentioned, their experience hints at capabilities in data storytelling and business acumen.",
+      "seniority_assessment": "With a latest seniority level of 0.5 and a total of 4.7 years of experience, this candidate is at a mid-level, which aligns with the role's requirements, suggesting they could bring a fresh perspective and growth potential.",
+      "trajectory_signal": "The candidate's career trajectory, although lacking detailed history, shows no internal promotions and a consistent seniority level, indicating stability and potential for further growth and development in their career.",
+      "platform_summary": "The candidate is open to work, with a notice period of 60 days, and has been actively applying to roles, as evidenced by 9 applications in the last 30 days, showing both intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0046792",
+    "composite_score": 0.7194594304115772,
+    "semantic_score": 0.6932498011759349,
+    "trajectory_score": 0.712,
+    "stability_score": 1.0,
+    "platform_score": 0.74411,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0046792",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their composite score of 0.719.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context suggests alignment with role requirements such as SQL, data visualization tools like Tableau, and possibly Python for data analysis, indicating potential in data-driven insights and presentation. The similarity in career context to the JD requirements, such as Excel skills for data analysis, suggests they could adapt to the role's demands.",
+      "seniority_assessment": "With 6.0 years of experience and a latest seniority level of 0.5, the candidate is well-positioned for a mid-level role, indicating a balance of experience and growth potential that aligns with the role's seniority requirement.",
+      "trajectory_signal": "The candidate's career progression, with no internal promotions detected and a total experience of 6.0 years, suggests stability and consistency, which are beneficial for a role requiring collaboration and data-driven decision making.",
+      "platform_summary": "The candidate is open to work, has a notice period of 90 days, and shows activity with 9 applications in the last 30 days, demonstrating their intent, responsiveness, and reliability.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0067302",
+    "composite_score": 0.7190751081938743,
+    "semantic_score": 0.6963945948396411,
+    "trajectory_score": 0.718,
+    "stability_score": 1.0,
+    "platform_score": 0.729185,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0067302",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their composite score of 0.719.",
+      "skill_alignment": "The candidate demonstrates a weak direct skill match but has a career context similar to the role's requirements, which could encompass skills such as data pipelines, forecasting, and possibly proficiency in tools like Tableau for data visualization. Their experience suggests potential alignment with the JD's requirements, including statistical analysis and data storytelling, although no direct skill equivalences are mentioned.",
+      "seniority_assessment": "With a latest seniority level of 0.5 and 6.5 years of experience, the candidate aligns with the mid-level requirement, indicating a potential for bringing established skills and a growth mindset to the role.",
+      "trajectory_signal": "The candidate's career, with no internal promotions and 6.5 years of experience, indicates a trajectory of consistent seniority and potential for further professional development, which could be leveraged in a new role.",
+      "platform_summary": "The candidate is not currently open to work and has a notice period of 60 days, with 7 applications in the last 30 days, suggesting a need for outreach due to their passive status but indicating some level of responsiveness.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0016253",
+    "composite_score": 0.7168123536568218,
+    "semantic_score": 0.6956956136226655,
+    "trajectory_score": 0.7323999999999999,
+    "stability_score": 0.8425925925925926,
+    "platform_score": 0.81915,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0016253",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall fit to the job description, despite weak direct skill matches.",
+      "skill_alignment": "The candidate's skills align with the job description through career context, but there is a weak direct skill match. Similarity to required skills like SQL, Data visualization, and Python is noted, albeit indirectly. No specific skills like scrum, embeddings, tailwind, asr, or flask are mentioned in the evidence, suggesting a need for further assessment.",
+      "seniority_assessment": "The candidate's seniority level aligns with the job requirement, given their latest seniority level of 0.5 and total experience of 7.7 years, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions and a steady seniority level, suggesting stability but limited growth or increasing scope, with 7.7 years of experience.",
+      "platform_summary": "The candidate is open to work, having applied to 10 jobs in the last 30 days, indicating active job seeking, but a notice period of 120 days may impact availability.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0082026",
+    "composite_score": 0.7164070620900789,
+    "semantic_score": 0.6919468440668923,
+    "trajectory_score": 0.712,
+    "stability_score": 0.9961111111111112,
+    "platform_score": 0.7340450000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0082026",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall fit to the job description, despite weak direct skill matches.",
+      "skill_alignment": "The candidate's skills align with the job description through career context, but there is a weak direct skill match. Similarity to required skills like SQL, Data visualization, and Python is noted, albeit indirectly. No specific skills like sap, feature engineering, asr, peft, or kafka are mentioned in the evidence, suggesting a need for further assessment.",
+      "seniority_assessment": "The candidate's seniority level aligns with the job requirement, given their latest seniority level of 0.5 and total experience of 6.0 years, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions and a steady seniority level, suggesting stability but limited growth or increasing scope, with 6.0 years of experience.",
+      "platform_summary": "The candidate is open to work and has applied to 7 jobs in the last 30 days, indicating active job seeking, with a notice period of 90 days.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0081808",
+    "composite_score": 0.7154759225068092,
+    "semantic_score": 0.6938426357337406,
+    "trajectory_score": 0.712,
+    "stability_score": 1.0,
+    "platform_score": 0.723155,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0081808",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall fit to the job description, despite weak direct skill matches.",
+      "skill_alignment": "The candidate's skills align with the job description through career context, but there is a weak direct skill match. Similarity to required skills like SQL, Data visualization, and Python is noted, albeit indirectly. No specific skills like haystack, mlops, cnn, elasticsearch, or java are mentioned in the evidence, suggesting a need for further assessment.",
+      "seniority_assessment": "The candidate's seniority level aligns with the job requirement, given their latest seniority level of 0.5 and total experience of 6.0 years, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions and a steady seniority level, suggesting stability but limited growth or increasing scope, with 6.0 years of experience.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 120 days, which may impact availability and requires planning.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly; Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0087030",
+    "composite_score": 0.7130664842175113,
+    "semantic_score": 0.6937534469706671,
+    "trajectory_score": 0.7336,
+    "stability_score": 0.8518518518518519,
+    "platform_score": 0.770375,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0087030",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their overall fit to the job description, despite weak direct skill matches.",
+      "skill_alignment": "The candidate's skills align with the job description through career context, but there is a weak direct skill match. Similarity to required skills like SQL, Data visualization, and Python is noted, albeit indirectly. No specific skills like information retrieval, bm25, powerpoint, object detection, or gcp are mentioned in the evidence, suggesting a need for further assessment.",
+      "seniority_assessment": "The candidate's seniority level aligns with the job requirement, given their latest seniority level of 0.5 and total experience of 7.8 years, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions and a steady seniority level, suggesting stability but limited growth or increasing scope, with 7.8 years of experience.",
+      "platform_summary": "The candidate is not open to work, has a notice period of 90 days, and is considered a passive candidate, requiring outreach and consideration of their availability.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0073457",
+    "composite_score": 0.7131339010620117,
+    "semantic_score": 0.695411145891462,
+    "trajectory_score": 0.7096,
+    "stability_score": 0.9583333333333334,
+    "platform_score": 0.74295,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0073457",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their career context and similarity to the role's requirements.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, although a weak direct skill match was observed. Similarities are seen in the context of data analysis, and skills like SQL, Data visualization, and Python for data analysis are relevant, but not directly matched. No specific skills like aws, graphql, java, object detection, or yolo were mentioned, but the candidate's 5.8 years of experience is notable.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5 and 5.8 years of total experience, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, with a total experience of 5.8 years and a latest seniority level of 0.5, suggesting a stable and consistent career path.",
+      "platform_summary": "The candidate is open to work, with 7 applications in the last 30 days, and a notice period of 90 days, indicating a moderate level of intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0047763",
+    "composite_score": 0.7124168541346125,
+    "semantic_score": 0.6939427578449249,
+    "trajectory_score": 0.7312,
+    "stability_score": 0.8725925925925926,
+    "platform_score": 0.77924,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0047763",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their career context and similarity to the role's requirements.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, although a weak direct skill match was observed. Similarities are seen in the context of data analysis, and skills like project management, deep learning, mlflow, tensorflow, and forecasting are relevant, but not directly matched. The candidate's 7.6 years of experience is notable, and skills like statistical analysis and data visualization are likely to be proficient.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5 and 7.6 years of total experience, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, with a total experience of 7.6 years and a latest seniority level of 0.5, suggesting a stable and consistent career path.",
+      "platform_summary": "The candidate is open to work, with 9 applications in the last 30 days, and a notice period of 120 days, indicating a moderate level of intent and responsiveness.",
+      "flags": "The candidate has a notice period of 120 days, which should be considered when planning the timeline.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0015577",
+    "composite_score": 0.7099215406732559,
+    "semantic_score": 0.6953244019235884,
+    "trajectory_score": 0.688,
+    "stability_score": 1.0,
+    "platform_score": 0.69779,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0015577",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their career context and similarity to the role's requirements.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, although a weak direct skill match was observed. Similarities are seen in the context of data analysis, and skills like qdrant, statistical modeling, powerpoint, opensearch, and kubernetes are relevant, but not directly matched. The candidate's 4.0 years of experience is notable, and certifications like AWS Certified Cloud Practitioner and Six Sigma Green Belt are held.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5 and 4.0 years of total experience, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, with a total experience of 4.0 years and a latest seniority level of 0.5, suggesting a stable and consistent career path.",
+      "platform_summary": "The candidate is not open to work, with 8 applications in the last 30 days, and a notice period of 90 days, indicating a lower level of intent and responsiveness.",
+      "flags": "The candidate is a passive candidate and has not had recent application activity, so outreach is required.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0090602",
+    "composite_score": 0.7053383302847545,
+    "semantic_score": 0.695133324623108,
+    "trajectory_score": 0.706,
+    "stability_score": 0.9327777777777778,
+    "platform_score": 0.728125,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0090602",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their career context and similarity to the role's requirements.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, although a weak direct skill match was observed. Similarities are seen in the context of data analysis, and skills like computer vision, gans, reinforcement learning, dbt, and statistical modeling are relevant, but not directly matched. The candidate's 5.5 years of experience is notable, and skills like SQL, Data visualization, and Python for data analysis are likely to be proficient.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5 and 5.5 years of total experience, indicating a mid-level professional.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, with a total experience of 5.5 years and a latest seniority level of 0.5, suggesting a stable and consistent career path.",
+      "platform_summary": "The candidate is open to work, with 7 applications in the last 30 days, and a notice period of 60 days, indicating a moderate level of intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0059675",
+    "composite_score": 0.7025084818148614,
+    "semantic_score": 0.693052805185318,
+    "trajectory_score": 0.7156,
+    "stability_score": 1.0,
+    "platform_score": 0.6552,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0059675",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their total experience of 6.3 years and weak direct skill match with similarity through career context.",
+      "skill_alignment": "This candidate has a weak direct skill match, with similarity to the required skills through their career context, and no specific skills like scikit-learn or sentence transformers were directly matched. The skills required for the role include SQL, Data visualization, Python for data analysis, and Statistical analysis. The career context suggests a potential for the candidate to have worked with data analysis tools.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5, indicating a mid-level position, and a total experience of 6.3 years. This experience suggests the candidate has had sufficient time to develop the necessary skills for the role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, which may indicate a need for new challenges or opportunities. With 6.3 years of experience, the candidate has had time to develop their skills and take on new responsibilities.",
+      "platform_summary": "The candidate is not open to work, has had 7 applications in the last 30 days, and has a notice period of 120 days, indicating they may require outreach and planning. The candidate's platform activity suggests they are actively looking for a new opportunity.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly; Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0029413",
+    "composite_score": 0.7021278253679275,
+    "semantic_score": 0.6924709296226501,
+    "trajectory_score": 0.6736,
+    "stability_score": 0.9466666666666667,
+    "platform_score": 0.746815,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0029413",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their total experience of 2.8 years and weak direct skill match with similarity through career context.",
+      "skill_alignment": "This candidate has a weak direct skill match, with similarity to the required skills through their career context, and no specific skills like etl or kubeflow were directly matched. The skills required for the role include SQL, Data visualization, Python for data analysis, and Statistical analysis. The career context suggests a potential for the candidate to have worked with data analysis tools.",
+      "seniority_assessment": "The candidate's seniority level may represent a calculated stretch, with a latest seniority level of 0.5, indicating a mid-level position, and a total experience of 2.8 years. This experience suggests the candidate may still be developing the necessary skills for the role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, which may indicate a need for new challenges or opportunities. With 2.8 years of experience, the candidate has had less time to develop their skills compared to other candidates.",
+      "platform_summary": "The candidate is open to work, has had 8 applications in the last 30 days, and has a notice period of 30 days, indicating they are actively looking for a new opportunity. The candidate's platform activity suggests they are highly engaged in their job search.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0007019",
+    "composite_score": 0.702197659242524,
+    "semantic_score": 0.6977183914865766,
+    "trajectory_score": 0.7288,
+    "stability_score": 0.8148148148148148,
+    "platform_score": 0.74287,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0007019",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their total experience of 7.4 years and weak direct skill match with similarity through career context.",
+      "skill_alignment": "This candidate has a weak direct skill match, with similarity to the required skills through their career context, and no specific skills like hadoop or lora were directly matched. The skills required for the role include SQL, Data visualization, Python for data analysis, and Statistical analysis. The career context suggests a potential for the candidate to have worked with data analysis tools.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5, indicating a mid-level position, and a total experience of 7.4 years. This experience suggests the candidate has had sufficient time to develop the necessary skills for the role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, which may indicate a need for new challenges or opportunities. With 7.4 years of experience, the candidate has had time to develop their skills and take on new responsibilities.",
+      "platform_summary": "The candidate is not open to work, has had 7 applications in the last 30 days, and has a notice period of 90 days, indicating they may require outreach and planning. The candidate's platform activity suggests they are not highly engaged in their job search.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0096759",
+    "composite_score": 0.7012534934049447,
+    "semantic_score": 0.6925261716331754,
+    "trajectory_score": 0.7288,
+    "stability_score": 0.8155555555555556,
+    "platform_score": 0.77168,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0096759",
+      "match_summary": "This candidate is a strong match for the Mid-Level Data Analyst based on their total experience of 7.4 years and weak direct skill match with similarity through career context.",
+      "skill_alignment": "This candidate has a weak direct skill match, with similarity to the required skills through their career context, and no specific skills like sentence transformers or statistical modeling were directly matched. The skills required for the role include SQL, Data visualization, Python for data analysis, and Statistical analysis. The career context suggests a potential for the candidate to have worked with data analysis tools.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.5, indicating a mid-level position, and a total experience of 7.4 years. This experience suggests the candidate has had sufficient time to develop the necessary skills for the role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, which may indicate a need for new challenges or opportunities. With 7.4 years of experience, the candidate has had time to develop their skills and take on new responsibilities.",
+      "platform_summary": "The candidate is not open to work, has had 7 applications in the last 30 days, and has a notice period of 120 days, indicating they may require outreach and planning. The candidate's platform activity suggests they are not highly engaged in their job search.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly; Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  }
+]

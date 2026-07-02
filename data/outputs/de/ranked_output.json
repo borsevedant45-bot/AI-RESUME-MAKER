@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0054024",
+    "composite_score": 0.720973076354326,
+    "semantic_score": 0.6583963526089986,
+    "trajectory_score": 0.7524,
+    "stability_score": 1.0,
+    "platform_score": 0.7621717647058823,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0054024",
+      "match_summary": "This candidate is a strong match for the intelligence layer role based on their experience and skill set.",
+      "skill_alignment": "The candidate has a weak direct skill match, but their career context shows similarity to the required skills, such as experience with data pipelines, apache flink, or speech recognition. Although the exact skills are not mentioned, their career context suggests a strong foundation in related areas. With 7.7 years of experience, they likely have a strong understanding of the technical requirements.",
+      "seniority_assessment": "The candidate's seniority level aligns with the role's requirement, with a latest seniority level of 0.75, indicating they have the necessary experience to own the intelligence layer of Redrob's product. Their total experience of 7.7 years also supports this assessment.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 7.7 years, but no internal promotions were detected, which may indicate a need for new challenges or growth opportunities. Their career timeline is not available, so it's difficult to assess their progression.",
+      "platform_summary": "The candidate is open to work, has submitted 10 applications in the last 30 days, and has a notice period of 90 days, indicating they are actively looking for a new opportunity and are likely to be responsive to outreach.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0030827",
+    "composite_score": 0.7202431681284004,
+    "semantic_score": 0.6673626416524251,
+    "trajectory_score": 0.7248,
+    "stability_score": 0.9188888888888889,
+    "platform_score": 0.8131645510835913,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0030827",
+      "match_summary": "This candidate is a strong match for the intelligence layer role based on their experience and skill set.",
+      "skill_alignment": "The candidate has a weak direct skill match, but their career context shows similarity to the required skills, such as experience with nlp, hugging face transformers, or recommendation systems. Although the exact skills are not mentioned, their career context suggests a strong foundation in related areas. With 5.4 years of experience, they likely have a solid understanding of the technical requirements.",
+      "seniority_assessment": "The candidate's seniority level aligns with the role's requirement, with a latest seniority level of 0.75, indicating they have the necessary experience to own the intelligence layer of Redrob's product. Their total experience of 5.4 years also supports this assessment.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 5.4 years, but no internal promotions were detected, which may indicate a need for new challenges or growth opportunities. Their career timeline is not available, so it's difficult to assess their progression.",
+      "platform_summary": "The candidate is open to work, has submitted 10 applications in the last 30 days, and has a notice period of 120 days, indicating they are actively looking for a new opportunity but may require more time to join. They are likely to be responsive to outreach.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0042029",
+    "composite_score": 0.7189388863528816,
+    "semantic_score": 0.6608158893585205,
+    "trajectory_score": 0.738,
+    "stability_score": 1.0,
+    "platform_score": 0.7407666253869969,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0042029",
+      "match_summary": "This candidate is a strong match for the intelligence layer role based on their experience and skill set.",
+      "skill_alignment": "The candidate has a weak direct skill match, but their career context shows similarity to the required skills, such as experience with nlp, pytorch, or yolo. Although the exact skills are not mentioned, their career context suggests a strong foundation in related areas. With 6.5 years of experience, they likely have a solid understanding of the technical requirements.",
+      "seniority_assessment": "The candidate's seniority level aligns with the role's requirement, with a latest seniority level of 0.75, indicating they have the necessary experience to own the intelligence layer of Redrob's product. Their total experience of 6.5 years also supports this assessment.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 6.5 years, but no internal promotions were detected, which may indicate a need for new challenges or growth opportunities. Their career timeline is not available, so it's difficult to assess their progression.",
+      "platform_summary": "The candidate is not open to work, has submitted 6 applications in the last 30 days, and has a notice period of 45 days, indicating they may require outreach to consider new opportunities. However, their notice period is relatively short.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0047721",
+    "composite_score": 0.7173350571093057,
+    "semantic_score": 0.6683237721920012,
+    "trajectory_score": 0.744,
+    "stability_score": 1.0,
+    "platform_score": 0.7121086842105263,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0047721",
+      "match_summary": "This candidate is a strong match for the intelligence layer role based on their experience and skill set.",
+      "skill_alignment": "The candidate has a weak direct skill match, but their career context shows similarity to the required skills, such as experience with learning to rank, mlops, or milvus. Although the exact skills are not mentioned, their career context suggests a strong foundation in related areas. With 7.0 years of experience, they likely have a solid understanding of the technical requirements.",
+      "seniority_assessment": "The candidate's seniority level aligns with the role's requirement, with a latest seniority level of 0.75, indicating they have the necessary experience to own the intelligence layer of Redrob's product. Their total experience of 7.0 years also supports this assessment.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 7.0 years, but no internal promotions were detected, which may indicate a need for new challenges or growth opportunities. Their career timeline is not available, so it's difficult to assess their progression.",
+      "platform_summary": "The candidate is not open to work, has submitted 6 applications in the last 30 days, and has a notice period of 90 days, indicating they may require outreach to consider new opportunities. However, their notice period is relatively standard.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0011432",
+    "composite_score": 0.7086326733895825,
+    "semantic_score": 0.6649534940719605,
+    "trajectory_score": 0.7512,
+    "stability_score": 0.8433333333333334,
+    "platform_score": 0.7829947523219815,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0011432",
+      "match_summary": "This candidate is a strong match for the intelligence layer of Redrob's product based on their experience with semantic search and retrieval systems.",
+      "skill_alignment": "The candidate's skills in designing evaluation frameworks for ranking systems and experience with vector databases align with the JD's requirements, although there is a weak direct skill match. Their experience with Python and career context also map to the JD's requirements.",
+      "seniority_assessment": "This candidate's seniority level, with 7.6 years of experience, aligns with the JD's requirement of 0.75, indicating a potential fit for the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, and a latest seniority level of 0.75, indicating potential for growth in the role.",
+      "platform_summary": "The candidate is open to work, has applied to 10 jobs in the last 30 days, and has a notice period of 60 days, indicating a strong intent to move and responsiveness to opportunities.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0016923",
+    "composite_score": 0.7055779165225058,
+    "semantic_score": 0.6591449833710987,
+    "trajectory_score": 0.7488,
+    "stability_score": 0.8155555555555556,
+    "platform_score": 0.8267191950464396,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0016923",
+      "match_summary": "This candidate is a strong match for the intelligence layer of Redrob's product based on their experience with search infrastructure and retrieval systems.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's experience with computer vision and azure maps to the JD's requirements, and their career context also aligns with the role's requirements.",
+      "seniority_assessment": "This candidate's seniority level, with 7.4 years of experience, is close to the JD's requirement of 0.75, indicating a potential fit for the role, although it may represent a calculated stretch.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, and a latest seniority level of 0.75, indicating potential for growth in the role.",
+      "platform_summary": "The candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 120 days, indicating a strong intent to move, but requiring planning for the notice period.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0096142",
+    "composite_score": 0.6879297656557144,
+    "semantic_score": 0.6646576143900553,
+    "trajectory_score": 0.58,
+    "stability_score": 0.8833333333333334,
+    "platform_score": 0.8639980030959752,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0096142",
+      "match_summary": "This candidate is a strong match for the intelligence layer of Redrob's product based on their experience with machine learning and search systems.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's experience with python and career context align with the JD's requirements, and their certification in AWS Certified Machine Learning Specialty maps to the role's requirements.",
+      "seniority_assessment": "This candidate's seniority level, with 5.0 years of experience, may represent a calculated stretch for the JD's requirement of 0.75, indicating potential for growth in the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, and a latest seniority level of 0.5, indicating potential for growth in the role.",
+      "platform_summary": "The candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 120 days, indicating a strong intent to move, but requiring planning for the notice period.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0075249",
+    "composite_score": 0.6840746875322198,
+    "semantic_score": 0.6610328533649444,
+    "trajectory_score": 0.5944,
+    "stability_score": 1.0,
+    "platform_score": 0.7455659442724458,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0075249",
+      "match_summary": "This candidate is a strong match for the intelligence layer of Redrob's product based on their experience with natural language processing and machine learning.",
+      "skill_alignment": "Although there is a weak direct skill match, the candidate's experience with sentence transformers and machine learning maps to the JD's requirements, and their career context also aligns with the role's requirements.",
+      "seniority_assessment": "This candidate's seniority level, with 6.2 years of experience, may represent a calculated stretch for the JD's requirement of 0.75, indicating potential for growth in the role.",
+      "trajectory_signal": "The candidate's career arc reveals a steady progression, with no internal promotions detected, and a latest seniority level of 0.5, indicating potential for growth in the role.",
+      "platform_summary": "The candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 45 days, indicating a strong intent to move and responsiveness to opportunities.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0039383",
+    "composite_score": 0.6808999027872105,
+    "semantic_score": 0.6641028860410054,
+    "trajectory_score": 0.6052,
+    "stability_score": 0.8277777777777778,
+    "platform_score": 0.8399861300309597,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0039383",
+      "match_summary": "This candidate is a strong match for the Intelligence Layer Owner role based on their 7.1 years of experience and certifications in Google Cloud Professional ML Engineer and Deep Learning Specialization.",
+      "skill_alignment": "The candidate's experience with machine learning and deep learning maps to the JD's requirements for production experience with embeddings-based retrieval systems and strong Python skills, although there is a weak direct skill match. Their experience with systems like faiss and gans could be an asset in this role.",
+      "seniority_assessment": "The candidate's seniority level, with 7.1 years of experience and a latest seniority level of 0.5, represents a calculated stretch for the role's requirement of 0.75, but their certifications and experience demonstrate potential for growth.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 7.1 years, but no internal promotions were detected, indicating a need for further evaluation of their trajectory.",
+      "platform_summary": "The candidate is open to work, has applied to 10 jobs in the last 30 days, and has a notice period of 90 days, demonstrating their intent and readiness to move to a new role.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0035553",
+    "composite_score": 0.6791589635135965,
+    "semantic_score": 0.6601405277252197,
+    "trajectory_score": 0.756,
+    "stability_score": 0.8896296296296297,
+    "platform_score": 0.6283266718266254,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0035553",
+      "match_summary": "This candidate is a moderate match for the Intelligence Layer Owner role based on their 8.0 years of experience and ability to work with systems like django and mlflow.",
+      "skill_alignment": "The candidate's experience with data pipelines and graphql maps to the JD's requirements for production experience with vector databases or hybrid search infrastructure, although there is a weak direct skill match. Their experience with semantic search could be an asset in this role.",
+      "seniority_assessment": "The candidate's seniority level, with 8.0 years of experience and a latest seniority level of 0.75, aligns with the role's requirement of 0.75, demonstrating a good fit.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 8.0 years, but no internal promotions were detected, indicating a need for further evaluation of their trajectory.",
+      "platform_summary": "The candidate is not open to work, has applied to 6 jobs in the last 30 days, and has a notice period of 120 days, demonstrating a lower level of intent and readiness to move to a new role.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly; Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0080051",
+    "composite_score": 0.6774641734262462,
+    "semantic_score": 0.6585267198880513,
+    "trajectory_score": 0.7524,
+    "stability_score": 0.8911111111111112,
+    "platform_score": 0.6010657739938081,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0080051",
+      "match_summary": "This candidate is a moderate match for the Intelligence Layer Owner role based on their 5.2 years of experience and certifications in Deep Learning Specialization and LangChain for LLM Application Development.",
+      "skill_alignment": "The candidate's experience with systems like llamaindex and opencv maps to the JD's requirements for production experience with embeddings-based retrieval systems, although there is a weak direct skill match. Their experience with diffusion models and feature engineering could be an asset in this role.",
+      "seniority_assessment": "The candidate's seniority level, with 5.2 years of experience and a latest seniority level of 0.5, represents a calculated stretch for the role's requirement of 0.75, but their certifications and experience demonstrate potential for growth.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 5.2 years and 10 out of 10 eligible companies with promotions detected, indicating a strong trajectory signal.",
+      "platform_summary": "The candidate is open to work, has applied to 7 jobs in the last 30 days, and has a notice period of 30 days, demonstrating their intent and readiness to move to a new role.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0045141",
+    "composite_score": 0.6737828638746151,
+    "semantic_score": 0.6594742594559987,
+    "trajectory_score": 0.5836,
+    "stability_score": 0.885,
+    "platform_score": 0.8215843653250774,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0045141",
+      "match_summary": "This candidate is a moderate match for the Intelligence Layer Owner role based on their 5.3 years of experience and ability to work with systems like yolo and microservices.",
+      "skill_alignment": "The candidate's experience with recommendation systems and milvus maps to the JD's requirements for production experience with vector databases or hybrid search infrastructure, although there is a weak direct skill match. Their experience with tts could be an asset in this role.",
+      "seniority_assessment": "The candidate's seniority level, with 5.3 years of experience and a latest seniority level of 0.5, represents a calculated stretch for the role's requirement of 0.75, but their experience demonstrates potential for growth.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 5.3 years, but no internal promotions were detected, indicating a need for further evaluation of their trajectory.",
+      "platform_summary": "The candidate is open to work, has applied to 8 jobs in the last 30 days, and has a notice period of 30 days, demonstrating their intent and readiness to move to a new role.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0005649",
+    "composite_score": 0.673988491819898,
+    "semantic_score": 0.6670465857982635,
+    "trajectory_score": 0.7488,
+    "stability_score": 0.6411111111111112,
+    "platform_score": 0.7857776006191951,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0005649",
+      "match_summary": "This candidate is a moderate match for the intelligence layer of Redrob's product based on their weak direct skill match and career context similarity.",
+      "skill_alignment": "The candidate's skills, although not a direct match, showed similarity to the JD requirements through their career context, which may include experience with production experience with embeddings-based retrieval systems, vector databases, or hybrid search infrastructure, strong Python, and designing evaluation frameworks for ranking systems, such as those using haystack or redis. However, specific skills like object detection or deep learning were not directly mentioned. Their experience with prompt engineering could be valuable. Given 7.4 years of experience, they likely have hands-on knowledge of relevant systems.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 7.4 years of experience, suggests they could be a good fit for the role's seniority requirement, potentially bringing a balanced mix of experience and growth potential.",
+      "trajectory_signal": "The candidate's career arc, although lacking detailed information on promotions or increasing scope, shows a total experience of 7.4 years, indicating potential for a stable and experienced approach to the role.",
+      "platform_summary": "The candidate is open to work, has submitted 8 applications in the last 30 days, and has a notice period of 90 days, indicating they are actively looking and could be available for the role in a reasonable timeframe.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0052335",
+    "composite_score": 0.673396198907609,
+    "semantic_score": 0.6603503162066141,
+    "trajectory_score": 0.5968,
+    "stability_score": 1.0,
+    "platform_score": 0.7153679411764706,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0052335",
+      "match_summary": "This candidate is a moderate match for the intelligence layer of Redrob's product based on their weak direct skill match and career context similarity.",
+      "skill_alignment": "The candidate's skills, although not a direct match, showed similarity to the JD requirements through their career context, which may include experience with production experience with embeddings-based retrieval systems, vector databases, or hybrid search infrastructure, strong Python, and designing evaluation frameworks for ranking systems, such as those using diffusion models or pytorch. Given 6.4 years of experience, they likely have hands-on knowledge of relevant systems, including potential experience with gans or machine learning.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.5 and 6.4 years of experience, may represent a calculated stretch for the role's seniority requirement, suggesting potential for growth into the position.",
+      "trajectory_signal": "The candidate's career arc, although lacking detailed information on promotions or increasing scope, shows a total experience of 6.4 years, indicating potential for a developing professional.",
+      "platform_summary": "The candidate is open to work, has submitted 9 applications in the last 30 days, and has a notice period of 60 days, indicating they are actively looking and could be available for the role in a short timeframe.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0059604",
+    "composite_score": 0.6732965287777238,
+    "semantic_score": 0.657252334912618,
+    "trajectory_score": 0.7452,
+    "stability_score": 0.8077777777777778,
+    "platform_score": 0.6789577244582043,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0059604",
+      "match_summary": "This candidate is a moderate match for the intelligence layer of Redrob's product based on their weak direct skill match and career context similarity.",
+      "skill_alignment": "The candidate's skills, although not a direct match, showed similarity to the JD requirements through their career context, which may include experience with production experience with embeddings-based retrieval systems, vector databases, or hybrid search infrastructure, strong Python, and designing evaluation frameworks for ranking systems, such as those using llms or computer vision. Given 7.1 years of experience, they likely have hands-on knowledge of relevant systems, including potential experience with css, scrum, or grpc.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 7.1 years of experience, suggests they could be a good fit for the role's seniority requirement, bringing a balanced mix of experience and growth potential.",
+      "trajectory_signal": "The candidate's career arc, although lacking detailed information on promotions or increasing scope, shows a total experience of 7.1 years, indicating potential for a stable and experienced approach to the role.",
+      "platform_summary": "The candidate is open to work, has submitted 10 applications in the last 30 days, but has a notice period of 120 days, indicating they are actively looking but may have a longer availability timeframe.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0095488",
+    "composite_score": 0.6732668197368001,
+    "semantic_score": 0.656528286377589,
+    "trajectory_score": 0.7272,
+    "stability_score": 0.9266666666666666,
+    "platform_score": 0.6134095975232199,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0095488",
+      "match_summary": "This candidate is a moderate match for the intelligence layer of Redrob's product based on their weak direct skill match and career context similarity.",
+      "skill_alignment": "The candidate's skills, although not a direct match, showed similarity to the JD requirements through their career context, which may include experience with production experience with embeddings-based retrieval systems, vector databases, or hybrid search infrastructure, strong Python, and designing evaluation frameworks for ranking systems, such as those using mlops, tally, or gcp. Given 5.6 years of experience, they likely have hands-on knowledge of relevant systems, including potential experience with grpc or forecasting.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75 and 5.6 years of experience, may represent a calculated stretch for the role's seniority requirement, suggesting potential for growth into the position.",
+      "trajectory_signal": "The candidate's career arc, although lacking detailed information on promotions or increasing scope, shows a total experience of 5.6 years, indicating potential for a developing professional.",
+      "platform_summary": "The candidate is not open to work, having submitted 6 applications in the last 30 days, and has a notice period of 90 days, indicating they may require outreach and could be available in a reasonable timeframe if engaged.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0008803",
+    "composite_score": 0.6709350635360083,
+    "semantic_score": 0.6571744672457377,
+    "trajectory_score": 0.556,
+    "stability_score": 1.0,
+    "platform_score": 0.73462,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0008803",
+      "match_summary": "This candidate is a moderate match for the intelligence layer role based on their composite score of 0.671, indicating a potential fit for the position.",
+      "skill_alignment": "The candidate's skills, such as experience with vector search and semantic search, align with the JD's requirements of production experience with embeddings-based retrieval systems and vector databases, although the direct skill match is weak and mostly based on career context. Skills like yolo, gcp, and redis could be relevant to the role, but are not explicitly mentioned in the candidate's profile. Their experience with statistical modeling and prompt engineering could be valuable in designing evaluation frameworks for ranking systems.",
+      "seniority_assessment": "The candidate's seniority level, with a latest seniority level of 0.5, may represent a calculated stretch for the role, which requires a seniority level of 0.75, indicating a potential need for growth into the position, with a total experience of 3.0 years.",
+      "trajectory_signal": "The candidate's career arc, with no internal promotions detected and a total experience of 3.0 years, suggests a relatively stable trajectory without significant increases in scope or domain focus, which may impact their ability to own the intelligence layer of Redrob's product.",
+      "platform_summary": "The candidate is open to work, has applied to 10 jobs in the last 30 days, and has a notice period of 90 days, indicating a high level of intent and responsiveness, which could facilitate a smoother hiring process.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0095528",
+    "composite_score": 0.6708950938475927,
+    "semantic_score": 0.6642916967074077,
+    "trajectory_score": 0.7236,
+    "stability_score": 0.925,
+    "platform_score": 0.593715,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0095528",
+      "match_summary": "This candidate is a moderate match for the intelligence layer role based on their composite score of 0.671, indicating a potential fit for the position.",
+      "skill_alignment": "The candidate's skills, such as experience with opensearch and pytorch, align with the JD's requirements of production experience with embeddings-based retrieval systems and vector databases, although the direct skill match is weak and mostly based on career context. Skills like feature engineering, semantic search, and vector search could be relevant to the role, but are not explicitly mentioned in the candidate's profile. Their experience with 5.3 years could be valuable in driving the long-term architecture of candidate-JD matching at scale.",
+      "seniority_assessment": "The candidate's seniority level, with a latest seniority level of 0.75, aligns with the role's requirement, indicating a good fit for the position, with a total experience of 5.3 years.",
+      "trajectory_signal": "The candidate's career arc, with no internal promotions detected and a total experience of 5.3 years, suggests a relatively stable trajectory without significant increases in scope or domain focus, which may impact their ability to own the intelligence layer of Redrob's product.",
+      "platform_summary": "The candidate is open to work, has applied to 8 jobs in the last 30 days, and has a notice period of 45 days, indicating a high level of intent and responsiveness, which could facilitate a smoother hiring process.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0072569",
+    "composite_score": 0.6694084041113214,
+    "semantic_score": 0.6626607123215993,
+    "trajectory_score": 0.5836,
+    "stability_score": 0.905,
+    "platform_score": 0.754135773993808,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0072569",
+      "match_summary": "This candidate is a moderate match for the intelligence layer role based on their composite score of 0.669, indicating a potential fit for the position.",
+      "skill_alignment": "The candidate's skills, such as experience with recommendation systems and llms, align with the JD's requirements of production experience with embeddings-based retrieval systems and vector databases, although the direct skill match is weak and mostly based on career context. Skills like asr, mlops, and go could be relevant to the role, but are not explicitly mentioned in the candidate's profile. Their experience with 5.3 years could be valuable in driving the long-term architecture of candidate-JD matching at scale.",
+      "seniority_assessment": "The candidate's seniority level, with a latest seniority level of 0.5, may represent a calculated stretch for the role, which requires a seniority level of 0.75, indicating a potential need for growth into the position, with a total experience of 5.3 years.",
+      "trajectory_signal": "The candidate's career arc, with no internal promotions detected and a total experience of 5.3 years, suggests a relatively stable trajectory without significant increases in scope or domain focus, which may impact their ability to own the intelligence layer of Redrob's product.",
+      "platform_summary": "The candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 120 days, indicating a high level of intent, but the long notice period may impact the hiring timeline.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0085049",
+    "composite_score": 0.6681893331540194,
+    "semantic_score": 0.659339253505071,
+    "trajectory_score": 0.574,
+    "stability_score": 1.0,
+    "platform_score": 0.6946029721362229,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0085049",
+      "match_summary": "This candidate is a moderate match for the intelligence layer role based on their composite score of 0.668, indicating a potential fit for the position.",
+      "skill_alignment": "The candidate's skills, such as experience with salesforce crm and postgresql, align with the JD's requirements of production experience with embeddings-based retrieval systems and vector databases, although the direct skill match is weak and mostly based on career context. Skills like computer vision, image classification, and css could be relevant to the role, but are not explicitly mentioned in the candidate's profile. Their experience with 4.5 years could be valuable in designing evaluation frameworks for ranking systems.",
+      "seniority_assessment": "The candidate's seniority level, with a latest seniority level of 0.5, may represent a calculated stretch for the role, which requires a seniority level of 0.75, indicating a potential need for growth into the position, with a total experience of 4.5 years.",
+      "trajectory_signal": "The candidate's career arc, with no internal promotions detected and a total experience of 4.5 years, suggests a relatively stable trajectory without significant increases in scope or domain focus, which may impact their ability to own the intelligence layer of Redrob's product.",
+      "platform_summary": "The candidate is open to work, has applied to 9 jobs in the last 30 days, and has a notice period of 60 days, indicating a high level of intent and responsiveness, which could facilitate a smoother hiring process.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  }
+]

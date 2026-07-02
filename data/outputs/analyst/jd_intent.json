@@ -1,0 +1,40 @@
+{
+  "seniority_level": 0.5,
+  "seniority_evidence": "Mid-Level Data Analyst",
+  "must_have_skills": [
+    "SQL (advanced querying, window functions, CTEs)",
+    "Data visualization (Tableau, Power BI, or Looker)",
+    "Python for data analysis (pandas, numpy, matplotlib)",
+    "Statistical analysis and hypothesis testing",
+    "Excel (advanced formulas, pivot tables)",
+    "Data storytelling and presentation",
+    "Business acumen and problem-solving",
+    "Attention to detail"
+  ],
+  "nice_to_have_skills": [
+    "Experience with cloud platforms (AWS, GCP, or Azure)",
+    "ETL pipeline knowledge",
+    "Experience with dbt or similar transformation tools",
+    "R programming",
+    "Machine learning basics",
+    "Experience with product analytics tools (Amplitude, Mixpanel)"
+  ],
+  "core_problems_to_solve": "Work with large datasets to uncover insights, build dashboards, and support data-driven decision making across the organization. Collaborate with cross-functional teams to identify opportunities and drive business impact through data. Conduct A/B testing and statistical analysis to inform product decisions.",
+  "implicit_soft_skills": [
+    "Collaboration",
+    "Communication",
+    "Problem-solving"
+  ],
+  "domain_tags": [
+    "data-engineering"
+  ],
+  "requires_technical_github_signals": false,
+  "work_context": {
+    "work_mode": "hybrid",
+    "location_required": "Mumbai, India",
+    "location_is_hard_requirement": true,
+    "salary_min_lpa": null,
+    "salary_max_lpa": null
+  },
+  "salary_stated": false
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "rank": 1,
+    "candidate_id": "CAND_0072646",
+    "composite_score": 0.7337623123084704,
+    "semantic_score": 0.664424701833725,
+    "trajectory_score": 0.98,
+    "stability_score": 0.8777777777777778,
+    "platform_score": 0.622735,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0072646",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their overall composite score of 0.734.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, despite a weak direct skill match. Although no specific skills like postgresql, css, kafka, angular, or six sigma are mentioned, their career path suggests a similarity to the required HR skills. The duration of their experience is 13.3 years, indicating a potential proficiency in HR-related skills.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating they can lead the human resources department. Their total experience of 13.3 years also supports their ability to handle senior roles.",
+      "trajectory_signal": "The candidate's career arc reveals a potential for growth, with 10 out of 10 eligible companies showing a promotion, suggesting increasing scope and domain focus.",
+      "platform_summary": "The candidate is not open to work, having applied to 6 jobs in the last 30 days, and has a notice period of 30 days, indicating some level of intent and responsiveness, but requiring outreach due to their passive status.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 2,
+    "candidate_id": "CAND_0066680",
+    "composite_score": 0.7106491830825806,
+    "semantic_score": 0.6655548088073729,
+    "trajectory_score": 0.7428,
+    "stability_score": 1.0,
+    "platform_score": 0.710025,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0066680",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their overall composite score of 0.711.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, despite a weak direct skill match. Although no specific skills like java, scrum, asr, apache beam, or next.js are mentioned, their career path suggests a similarity to the required HR skills. The duration of their experience is 6.9 years, indicating some level of proficiency in HR-related skills.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating they can lead the human resources department. However, with only 6.9 years of experience, they may represent a calculated stretch for the role.",
+      "trajectory_signal": "The candidate's career arc does not reveal significant promotions or increasing scope, with no internal promotions detected.",
+      "platform_summary": "The candidate is open to work, having applied to 7 jobs in the last 30 days, and has a notice period of 30 days, indicating a strong intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 3,
+    "candidate_id": "CAND_0063647",
+    "composite_score": 0.7079222790590921,
+    "semantic_score": 0.6693303211212157,
+    "trajectory_score": 0.6948,
+    "stability_score": 0.9744444444444444,
+    "platform_score": 0.7439500000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0063647",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their overall composite score of 0.708.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, despite a weak direct skill match. Although no specific skills like sql, excel, postgresql, redux, or rust are mentioned, their career path suggests a similarity to the required HR skills. The duration of their experience is 2.9 years, indicating a limited but growing proficiency in HR-related skills.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, but with only 2.9 years of experience, they may represent a significant stretch for the role.",
+      "trajectory_signal": "The candidate's career arc does not reveal significant promotions or increasing scope, with no internal promotions detected.",
+      "platform_summary": "The candidate is open to work, having applied to 9 jobs in the last 30 days, and has a notice period of 30 days, indicating a strong intent and responsiveness.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 4,
+    "candidate_id": "CAND_0092265",
+    "composite_score": 0.6950749805135726,
+    "semantic_score": 0.6629799443244934,
+    "trajectory_score": 0.7392,
+    "stability_score": 1.0,
+    "platform_score": 0.6411600000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0092265",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their overall composite score of 0.695.",
+      "skill_alignment": "The candidate's skills align with the JD's requirements through career context, despite a weak direct skill match. Although no specific skills like fastapi, microservices, seo, next.js, or image classification are mentioned, their career path suggests a similarity to the required HR skills. The duration of their experience is 6.6 years, indicating some level of proficiency in HR-related skills.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating they can lead the human resources department. Their total experience of 6.6 years also supports their ability to handle senior roles.",
+      "trajectory_signal": "The candidate's career arc does not reveal significant promotions or increasing scope, with no internal promotions detected.",
+      "platform_summary": "The candidate is open to work, having applied to 7 jobs in the last 30 days, and has a notice period of 90 days, indicating some level of intent but potentially lower responsiveness due to the longer notice period.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 5,
+    "candidate_id": "CAND_0057755",
+    "composite_score": 0.6940311677970886,
+    "semantic_score": 0.6679633365631104,
+    "trajectory_score": 0.6996,
+    "stability_score": 1.0,
+    "platform_score": 0.6767200000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0057755",
+      "match_summary": "This candidate is a strong match for the HR Manager role based on their semantic fit score of 0.668 and a career context similar to the job description requirements.",
+      "skill_alignment": "The candidate's skills align with the JD requirements through career context, albeit with a weak direct skill match. Specifically, skills like HR strategy and operations, talent acquisition, and employee relations management are matched, although at varying proficiencies and durations. Semantic equivalences to skills like Labor law and compliance can also be considered.",
+      "seniority_assessment": "This candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75 and a total experience of 3.3 years. The latest title suggests they may have had experience in leading roles.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, indicating a need for further exploration of their ability to grow within a company. Their total experience of 3.3 years, however, indicates potential for future growth.",
+      "platform_summary": "The candidate is open to work, having applied to 8 jobs in the last 30 days, demonstrating their intent and responsiveness. Their notice period of 90 days suggests reliability in their current role.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 6,
+    "candidate_id": "CAND_0062285",
+    "composite_score": 0.6916397994337082,
+    "semantic_score": 0.6647251412391663,
+    "trajectory_score": 0.7416,
+    "stability_score": 1.0,
+    "platform_score": 0.6179300000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0062285",
+      "match_summary": "This candidate is a strong match for the HR Manager role based on their semantic fit score of 0.665 and a career context similar to the job description requirements, along with 6.8 years of experience.",
+      "skill_alignment": "Although the candidate has a weak direct skill match, their career context suggests similarities to the JD requirements such as HR analytics and reporting, and communication skills. However, specific skills like accounting or rest apis aren't directly mentioned in their profile.",
+      "seniority_assessment": "The candidate's latest seniority level of 0.75 and 6.8 years of experience indicate alignment with the JD's seniority requirement, suggesting they may have the necessary leadership experience to lead the human resources department.",
+      "trajectory_signal": "The candidate's career arc, with no internal promotions detected, may suggest a lack of growth opportunities in their previous roles or a need for lateral moves to achieve career goals. Nonetheless, their experience indicates a level of maturity.",
+      "platform_summary": "This candidate demonstrates intent by being open to work and having applied to 7 jobs in the last 30 days. Their notice period of 30 days indicates a shorter transition time if hired.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 7,
+    "candidate_id": "CAND_0080620",
+    "composite_score": 0.6921558939290047,
+    "semantic_score": 0.6680025540828705,
+    "trajectory_score": 0.7332,
+    "stability_score": 1.0,
+    "platform_score": 0.6002750000000001,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0080620",
+      "match_summary": "This candidate is a strong match for the HR Manager role based on their semantic fit score of 0.668, career context, and certifications like Scrum Master Certified, which align with the JD's requirements for leadership and team management skills.",
+      "skill_alignment": "The candidate's skills, such as scrum, align with the JD's requirements for organizational development and team management. However, direct matches to skills like django or bigquery are not evident, suggesting a need for upskilling or reskilling in certain areas like HR analytics and reporting.",
+      "seniority_assessment": "With a latest seniority level of 0.75 and 6.1 years of experience, this candidate's seniority level is aligned with the JD's requirement. The combination of experience and certifications like Six Sigma Green Belt suggests readiness for a leadership role.",
+      "trajectory_signal": "The absence of internal promotions in the candidate's career timeline may indicate a pattern of seeking external opportunities for growth. Their career arc, however, does show a focus on developing skills relevant to HR and operations.",
+      "platform_summary": "The candidate is open to work, with 6 applications in the last 30 days, and has a notice period of 90 days, indicating a standard transition time if hired.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 8,
+    "candidate_id": "CAND_0057654",
+    "composite_score": 0.6916416011250283,
+    "semantic_score": 0.6636318762302398,
+    "trajectory_score": 0.9296,
+    "stability_score": 0.6796296296296297,
+    "platform_score": 0.60013,
+    "cert_bonus": 0.1,
+    "explanation": {
+      "candidate_id": "CAND_0057654",
+      "match_summary": "This candidate is a strong match for the HR Manager role based on their semantic fit score and the presence of relevant certifications like Six Sigma Green Belt, which suggests proficiency in process improvement and leadership.",
+      "skill_alignment": "While direct skill matches are weak, the candidate's career context suggests relevance to the JD's requirements for HR strategy and operations. Skills like diffusion models or graphql, though not directly applicable, indicate an ability to learn and adapt to new technologies and methodologies.",
+      "seniority_assessment": "The candidate's seniority level, with a latest seniority of 0.75 and 5.8 years of experience, aligns with the JD's requirements. The detection of promotions in eligible companies suggests a strong potential for leadership roles.",
+      "trajectory_signal": "The candidate's career trajectory, marked by detected promotions, indicates a history of growth and increasing responsibility. This pattern suggests they are ready for more challenging roles and can drive business objectives.",
+      "platform_summary": "This candidate is open to work, demonstrating intent with 7 applications in the last 30 days. Their notice period of 60 days is shorter than average, suggesting a faster onboarding potential.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 9,
+    "candidate_id": "CAND_0053506",
+    "composite_score": 0.6880993342952728,
+    "semantic_score": 0.6698895265579223,
+    "trajectory_score": 0.708,
+    "stability_score": 1.0,
+    "platform_score": 0.63319,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0053506",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their career context and total experience of 4.0 years.",
+      "skill_alignment": "The candidate's skills, such as HR strategy and operations, show a weak direct match but similarity through career context, and no specific technical skills like next.js or django are mentioned, however, their experience indicates they may have worked with various systems and tools. Although there is no direct mention of skills like kafka or hadoop, the candidate's background suggests potential familiarity with related concepts. The candidate's career context suggests they may have experience with Compensation and benefits administration, Labor law and compliance, and HR analytics and reporting.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75, aligns with the JD's requirement, considering their total experience of 4.0 years.",
+      "trajectory_signal": "Unfortunately, no internal promotions were detected, and there is no career history available to determine the candidate's career arc or increasing scope.",
+      "platform_summary": "The candidate is open to work, has submitted 7 applications in the last 30 days, and has a notice period of 30 days, indicating they are actively seeking new opportunities and could start relatively quickly.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 10,
+    "candidate_id": "CAND_0061692",
+    "composite_score": 0.6869895838766098,
+    "semantic_score": 0.6741330967903137,
+    "trajectory_score": 0.6936,
+    "stability_score": 0.9266666666666666,
+    "platform_score": 0.6932149999999999,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0061692",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their career context and total experience of 2.8 years.",
+      "skill_alignment": "The candidate's skills, such as HR strategy and operations, show a weak direct match but similarity through career context, and no specific technical skills like powerpoint or content writing are mentioned, however, their experience indicates they may have worked with various systems and tools. Although there is no direct mention of skills like etl or java, the candidate's background suggests potential familiarity with related concepts. The candidate's career context suggests they may have experience with Talent acquisition and recruitment, Employee relations management, and Performance management systems.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75, may represent a calculated stretch, considering their total experience of 2.8 years.",
+      "trajectory_signal": "Unfortunately, no internal promotions were detected, and there is no career history available to determine the candidate's career arc or increasing scope.",
+      "platform_summary": "The candidate is open to work, has submitted 8 applications in the last 30 days, and has a notice period of 60 days, indicating they are actively seeking new opportunities but may require more time to start.",
+      "flags": "No flags",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 11,
+    "candidate_id": "CAND_0008818",
+    "composite_score": 0.6835871729542413,
+    "semantic_score": 0.6663557322502136,
+    "trajectory_score": 0.72,
+    "stability_score": 0.8194444444444444,
+    "platform_score": 0.73723,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0008818",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their career context and total experience of 5.0 years.",
+      "skill_alignment": "The candidate's skills, such as HR strategy and operations, show a weak direct match but similarity through career context, and no specific technical skills like mongodb or postgresql are mentioned, however, their experience indicates they may have worked with various systems and tools. Although there is no direct mention of skills like ci/cd or airflow, the candidate's background suggests potential familiarity with related concepts. The candidate's career context suggests they may have experience with Compensation and benefits administration, Labor law and compliance, and HR analytics and reporting.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75, aligns with the JD's requirement, considering their total experience of 5.0 years.",
+      "trajectory_signal": "Unfortunately, no internal promotions were detected, and there is no career history available to determine the candidate's career arc or increasing scope.",
+      "platform_summary": "The candidate is open to work, has submitted 8 applications in the last 30 days, and has a notice period of 150 days, indicating they are actively seeking new opportunities but may require significant time to start.",
+      "flags": "Notice period is 150 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 12,
+    "candidate_id": "CAND_0094886",
+    "composite_score": 0.6805191961170832,
+    "semantic_score": 0.6648472270011901,
+    "trajectory_score": 0.78,
+    "stability_score": 0.8494444444444444,
+    "platform_score": 0.62703,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0094886",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their career context and total experience of 14.9 years.",
+      "skill_alignment": "The candidate's skills, such as HR strategy and operations, show a weak direct match but similarity through career context, and no specific technical skills like kubernetes or java are mentioned, however, their experience indicates they may have worked with various systems and tools. Although there is no direct mention of skills like grpc or angular, the candidate's background suggests potential familiarity with related concepts. The candidate's career context suggests they may have experience with Talent acquisition and recruitment, Employee relations management, and Performance management systems.",
+      "seniority_assessment": "This candidate's seniority level, with a latest seniority level of 0.75, aligns with the JD's requirement, considering their total experience of 14.9 years.",
+      "trajectory_signal": "Unfortunately, no internal promotions were detected, and there is no career history available to determine the candidate's career arc or increasing scope.",
+      "platform_summary": "The candidate is open to work, has submitted 7 applications in the last 30 days, and has a notice period of 120 days, indicating they are actively seeking new opportunities but may require some time to start.",
+      "flags": "Notice period is 120 days \u2014 plan timeline accordingly",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 13,
+    "candidate_id": "CAND_0034318",
+    "composite_score": 0.6809992224798203,
+    "semantic_score": 0.6726520642280578,
+    "trajectory_score": 0.7716000000000001,
+    "stability_score": 1.0,
+    "platform_score": 0.513355,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0034318",
+      "match_summary": "This candidate is a strong match for the HR Manager based on their overall composite score of 0.681.",
+      "skill_alignment": "The candidate's skills showed a weak direct match but similarity through career context, suggesting a potential for HR strategy and operations, talent acquisition and recruitment, and employee relations management. Their experience with Excel could be beneficial in HR analytics and reporting. However, specific skills like speech recognition, AWS, Node.js, and PostgreSQL were not mentioned in the evidence.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, having a latest seniority level of 0.75, which is suitable for leading the human resources department. With 9.3 years of total experience, they have the potential to lead the HR functions.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, but they have reached a seniority level of 0.75, indicating potential for leadership roles.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 150 days, indicating a need for planning and outreach in the recruitment process. They had 7 applications in the last 30 days, showing some level of job-seeking activity.",
+      "flags": "Notice period is 150 days \u2014 plan timeline accordingly; Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 14,
+    "candidate_id": "CAND_0071846",
+    "composite_score": 0.6757821871948242,
+    "semantic_score": 0.6662348205566406,
+    "trajectory_score": 0.702,
+    "stability_score": 1.0,
+    "platform_score": 0.5855,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0071846",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their overall composite score of 0.676.",
+      "skill_alignment": "The candidate showed a weak direct skill match but similarity through career context, suggesting potential in HR strategy and operations, talent acquisition and recruitment, and employee relations management. Skills like Terraform, Tailwind, data pipelines, Scrum, and BigQuery were not directly mentioned but could be relevant in an HR context. Their ability to use Excel could be beneficial in HR analytics and reporting.",
+      "seniority_assessment": "The candidate's seniority level is at 0.75, which aligns with the JD's requirement, although their total experience of 3.5 years might be considered relatively limited for a lead role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, but they have reached a seniority level of 0.75, indicating some potential for leadership roles.",
+      "platform_summary": "The candidate is open to work and has a notice period of 90 days, indicating a shorter timeline for recruitment. They had 7 applications in the last 30 days, showing active job-seeking behavior.",
+      "flags": "No flags.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 15,
+    "candidate_id": "CAND_0088850",
+    "composite_score": 0.6756687086963653,
+    "semantic_score": 0.6661105962753295,
+    "trajectory_score": 0.9236,
+    "stability_score": 0.885,
+    "platform_score": 0.3944,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0088850",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their overall composite score of 0.676.",
+      "skill_alignment": "The candidate showed a weak direct skill match but similarity through career context, suggesting potential in HR strategy and operations, talent acquisition and recruitment, and employee relations management. Their experience with PowerPoint could be beneficial in presentations, and skills like Azure, accounting, gRPC, and Agile could indirectly support HR operations and strategy.",
+      "seniority_assessment": "The candidate's seniority level is at 0.75, aligning with the JD's requirement, and their trajectory fit score of 0.924 indicates a strong potential for senior roles, supported by 5.3 years of experience.",
+      "trajectory_signal": "The candidate's career arc reveals promotions in eligible companies, suggesting a strong trajectory towards senior roles.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 90 days. They had 4 applications in the last 30 days, indicating some job-seeking activity but requiring outreach.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 16,
+    "candidate_id": "CAND_0075131",
+    "composite_score": 0.6754804589729309,
+    "semantic_score": 0.6695784542083739,
+    "trajectory_score": 0.696,
+    "stability_score": 1.0,
+    "platform_score": 0.5856399999999999,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0075131",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their overall composite score of 0.675.",
+      "skill_alignment": "The candidate showed a weak direct skill match but similarity through career context, suggesting potential in HR strategy and operations, talent acquisition and recruitment, and employee relations management. Skills like feature engineering, Figma, Azure, GraphQL, and Hadoop were not directly mentioned but could be relevant in an HR context for data-driven decision-making and operational efficiency.",
+      "seniority_assessment": "The candidate's seniority level is at 0.75, aligning with the JD's requirement, although their total experience of 3.0 years might be considered relatively limited for a lead role.",
+      "trajectory_signal": "The candidate's career arc reveals no internal promotions detected, but they have reached a seniority level of 0.75, indicating some potential for leadership roles.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 30 days, which is relatively short. They had 7 applications in the last 30 days, showing active job-seeking behavior.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity.",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 17,
+    "candidate_id": "CAND_0043287",
+    "composite_score": 0.6754233883337974,
+    "semantic_score": 0.6635582523822785,
+    "trajectory_score": 0.7787999999999999,
+    "stability_score": 1.0,
+    "platform_score": 0.49239,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0043287",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their composite score of 0.675.",
+      "skill_alignment": "The candidate's skills are similar to the JD's requirements through career context, however, there is a weak direct skill match. For instance, skills like HR strategy and operations map to the JD's requirements. The candidate's experience of 9.9 years indicates that they may have had exposure to various HR functions.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating that they may have the required leadership experience to lead the HR department.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 9.9 years, however, no internal promotions were detected, which may indicate a need for external opportunities for growth.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 60 days, indicating that they may require some time to join the organization. They have also submitted 4 applications in the last 30 days, which may indicate some level of job search activity.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 18,
+    "candidate_id": "CAND_0028733",
+    "composite_score": 0.6731827034296989,
+    "semantic_score": 0.6646677240848542,
+    "trajectory_score": 0.7343999999999999,
+    "stability_score": 1.0,
+    "platform_score": 0.534745,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0028733",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their composite score of 0.673.",
+      "skill_alignment": "The candidate's skills are similar to the JD's requirements through career context, however, there is a weak direct skill match. For instance, skills like data pipelines and html may map to the JD's requirements for HR analytics and reporting. The candidate's experience of 6.2 years indicates that they may have had exposure to various HR functions.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating that they may have the required leadership experience to lead the HR department.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 6.2 years, however, no internal promotions were detected, which may indicate a need for external opportunities for growth.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 30 days, indicating that they may require some time to join the organization. They have also submitted 5 applications in the last 30 days, which may indicate some level of job search activity.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 19,
+    "candidate_id": "CAND_0088704",
+    "composite_score": 0.6733852096629672,
+    "semantic_score": 0.670526630783081,
+    "trajectory_score": 0.762,
+    "stability_score": 0.9759259259259261,
+    "platform_score": 0.5090600000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0088704",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their composite score of 0.673.",
+      "skill_alignment": "The candidate's skills are similar to the JD's requirements through career context, however, there is a weak direct skill match. For instance, skills like powerpoint and kubernetes may map to the JD's requirements for HR operations and analytics. The candidate's experience of 8.5 years indicates that they may have had exposure to various HR functions.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating that they may have the required leadership experience to lead the HR department.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 8.5 years, however, no internal promotions were detected, which may indicate a need for external opportunities for growth.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 60 days, indicating that they may require some time to join the organization. They have also submitted 4 applications in the last 30 days, which may indicate some level of job search activity.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  },
+  {
+    "rank": 20,
+    "candidate_id": "CAND_0067916",
+    "composite_score": 0.6708733406648636,
+    "semantic_score": 0.6763638304710388,
+    "trajectory_score": 0.714,
+    "stability_score": 1.0,
+    "platform_score": 0.5282300000000001,
+    "cert_bonus": 0.0,
+    "explanation": {
+      "candidate_id": "CAND_0067916",
+      "match_summary": "This candidate is a moderate match for the HR Manager based on their composite score of 0.671.",
+      "skill_alignment": "The candidate's skills are similar to the JD's requirements through career context, however, there is a weak direct skill match. For instance, skills like terraform and rest apis may map to the JD's requirements for HR operations and analytics. The candidate's experience of 4.5 years indicates that they may have had exposure to various HR functions.",
+      "seniority_assessment": "The candidate's seniority level aligns with the JD's requirement, with a latest seniority level of 0.75, indicating that they may have the required leadership experience to lead the HR department.",
+      "trajectory_signal": "The candidate's career arc reveals a total experience of 4.5 years, however, no internal promotions were detected, which may indicate a need for external opportunities for growth.",
+      "platform_summary": "The candidate is not open to work and has a notice period of 60 days, indicating that they may require some time to join the organization. They have also submitted 5 applications in the last 30 days, which may indicate some level of job search activity.",
+      "flags": "Passive candidate \u2014 outreach required; no recent application activity",
+      "grounding_validated": true
+    }
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "seniority_level": 0.75,
+  "seniority_evidence": "Proven experience supervising teams",
+  "must_have_skills": [
+    "Indian GAAP and Ind AS accounting standards",
+    "Financial statement preparation and analysis",
+    "GST, TDS, and direct tax compliance",
+    "Month-end and year-end close processes",
+    "Internal controls and audit support",
+    "Advanced Excel (pivot tables, VLOOKUP, financial modeling)",
+    "Tally ERP or SAP FI",
+    "Accounts payable and receivable management",
+    "Bank reconciliation",
+    "Attention to detail and accuracy"
+  ],
+  "nice_to_have_skills": [
+    "CA (Chartered Accountant) or CPA qualification",
+    "Experience with ERP implementation",
+    "Knowledge of IFRS",
+    "Experience in manufacturing or technology sectors",
+    "Process improvement and automation experience",
+    "Advanced financial modeling"
+  ],
+  "core_problems_to_solve": "manage the full accounting cycle, prepare and review financial statements, ensure compliance with tax regulations, and develop internal control policies.",
+  "implicit_soft_skills": [
+    "supervise and mentor junior accounting staff",
+    "coordinate with external auditors",
+    "support budgeting and financial planning activities"
+  ],
+  "domain_tags": [
+    "finance"
+  ],
+  "requires_technical_github_signals": false,
+  "work_context": {
+    "work_mode": "onsite",
+    "location_required": "Chennai, India",
+    "location_is_hard_requirement": true,
+    "salary_min_lpa": null,
+    "salary_max_lpa": null
+  },
+  "salary_stated": false
+}
