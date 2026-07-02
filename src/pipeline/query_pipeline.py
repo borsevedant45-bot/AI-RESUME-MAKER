@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 import time
 from pathlib import Path
 from typing import Any
@@ -9,6 +10,7 @@ import numpy as np
 import pandas as pd
 
 from src.config import Settings
+from src.llm import LLMClient
 from src.jd_parser.parser import parse_job_description
 from src.embedder.embedder import get_model, encode_single, encode_batch
 from src.embedder.candidate_doc_builder import build_jd_query_doc
@@ -175,8 +177,17 @@ def run_query(
 
     # 10. Generate explanations (batched LLM calls)
     t0 = time.time()
+
+    # Use separate Groq client for explanations if key is available
+    groq_key = os.environ.get("GROQ_API_KEY")
+    if groq_key:
+        explainer_client = LLMClient(provider="groq", api_key=groq_key)
+    else:
+        logger.warning("GROQ_API_KEY not set; using default LLM client for explanations")
+        explainer_client = llm_client
+
     explanations = generate_explanations(
-        top_20, feature_store, {}, jd_intent, llm_client, settings,
+        top_20, feature_store, {}, jd_intent, explainer_client, settings,
     )
     logger.info("Explanations generated in %.1fs", time.time() - t0)
 

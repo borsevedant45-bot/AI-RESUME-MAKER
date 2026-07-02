@@ -18,6 +18,7 @@ class LLMConfig:
     model: str = "llama-3.3-70b-versatile"
     max_tokens: int = 4000
     explanation_batch_size: int = 4
+    explainer_model: str = "llama-3.3-70b-versatile"
     ollama_model: str = "qwen2.5-coder:7b"
     ollama_base_url: str = "http://localhost:11434"
 

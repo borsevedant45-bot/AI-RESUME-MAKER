@@ -6,12 +6,11 @@ embedding:
   embedding_dim: 384
 
 llm:
-  provider: "ollama"
-  model: "qwen2.5-coder:7b"
+  provider: "groq"
+  model: "llama-3.3-70b-versatile"
   max_tokens: 4000
   explanation_batch_size: 4
-  ollama_model: "qwen2.5-coder:7b"
-  ollama_base_url: "http://localhost:11434"
+  explainer_model: "llama-3.3-70b-versatile"
 
 # ── Retrieval configuration ───────────────────────────────────────────────────
 retrieval:

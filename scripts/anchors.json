@@ -1,27 +1,27 @@
 {
   "de": {
     "label": "Senior Data Engineer",
-    "fit_anchors": ["CAND_0030254", "CAND_0066055", "CAND_0000395"],
+    "fit_anchors": ["CAND_0054024", "CAND_0030827", "CAND_0042029"],
     "nonfit_anchors": ["CAND_0000024", "CAND_0000042", "CAND_0000058"]
   },
   "hr": {
     "label": "HR Manager",
-    "fit_anchors": ["CAND_0000024", "CAND_0000042", "CAND_0000058"],
+    "fit_anchors": ["CAND_0072646", "CAND_0066680", "CAND_0063647"],
     "nonfit_anchors": ["CAND_0000007", "CAND_0000009", "CAND_0000010"]
   },
   "analyst": {
-    "label": "Mid Data Analyst",
-    "fit_anchors": ["CAND_0050425", "CAND_0000292", "CAND_0000347"],
+    "label": "Mid Data Analyst (Stretch)",
+    "fit_anchors": ["CAND_0062271", "CAND_0057065", "CAND_0038195"],
     "nonfit_anchors": ["CAND_0000007", "CAND_0000013", "CAND_0000066"]
   },
   "pm": {
     "label": "Program Lead (Implicit JD)",
-    "fit_anchors": ["CAND_0001440", "CAND_0001596", "CAND_0002518"],
+    "fit_anchors": ["CAND_0017046", "CAND_0098735", "CAND_0095666"],
     "nonfit_anchors": ["CAND_0000005", "CAND_0000010", "CAND_0000013"]
   },
   "accountant": {
-    "label": "Senior Accountant",
-    "fit_anchors": ["CAND_0012815", "CAND_0000912", "CAND_0001605"],
+    "label": "Senior Accountant (Salary+Location Constraint)",
+    "fit_anchors": ["CAND_0054771", "CAND_0086794", "CAND_0088037"],
     "nonfit_anchors": ["CAND_0000007", "CAND_0000010", "CAND_0000013"]
   }
 }

@@ -1,0 +1,58 @@
+2026-07-02 08:19:18,880 [INFO] src.pipeline.indexing_pipeline — Starting indexing pipeline...
+2026-07-02 08:19:18,882 [INFO] src.embedder.index_builder — Loading candidates from data\raw\candidates.jsonl
+2026-07-02 08:19:24,012 [INFO] src.data_loader.loader — Loaded 100000 valid profiles, skipped 0 records
+2026-07-02 08:19:24,024 [INFO] src.embedder.index_builder — Loaded 100000 profiles
+2026-07-02 08:19:24,025 [INFO] src.embedder.index_builder — Building candidate documents and extracting features...
+2026-07-02 08:19:24,721 [INFO] src.embedder.index_builder — Progress: processed 10000 / 100000 candidates
+2026-07-02 08:19:24,969 [INFO] src.embedder.index_builder — Progress: processed 20000 / 100000 candidates
+2026-07-02 08:19:25,202 [INFO] src.embedder.index_builder — Progress: processed 30000 / 100000 candidates
+2026-07-02 08:19:25,432 [INFO] src.embedder.index_builder — Progress: processed 40000 / 100000 candidates
+2026-07-02 08:19:25,667 [INFO] src.embedder.index_builder — Progress: processed 50000 / 100000 candidates
+2026-07-02 08:19:25,898 [INFO] src.embedder.index_builder — Progress: processed 60000 / 100000 candidates
+2026-07-02 08:19:26,131 [INFO] src.embedder.index_builder — Progress: processed 70000 / 100000 candidates
+2026-07-02 08:19:26,376 [INFO] src.embedder.index_builder — Progress: processed 80000 / 100000 candidates
+2026-07-02 08:19:26,615 [INFO] src.embedder.index_builder — Progress: processed 90000 / 100000 candidates
+2026-07-02 08:19:26,841 [INFO] src.embedder.index_builder — Progress: processed 100000 / 100000 candidates
+2026-07-02 08:19:26,842 [INFO] src.embedder.index_builder — Indexed 100000 / 100000 candidates (success rate: 100.0%)
+2026-07-02 08:19:26,853 [INFO] src.embedder.index_builder — Encoding 100000 documents (batch_size=256)...
+2026-07-02 08:19:26,854 [INFO] src.embedder.embedder — Loading embedding model: BAAI/bge-small-en-v1.5
+2026-07-02 08:19:26,855 [INFO] sentence_transformers.base.model — No device provided, using cpu
+2026-07-02 08:19:27,568 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:27,569 [WARNING] huggingface_hub.utils._http — Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-02 08:19:27,614 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:27,978 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:28,184 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:28,200 [INFO] sentence_transformers.base.model — Loading SentenceTransformer model from BAAI/bge-small-en-v1.5.
+2026-07-02 08:19:28,489 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:28,591 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:28,819 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:28,899 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/README.md "HTTP/1.1 200 OK"
+2026-07-02 08:19:29,206 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:29,523 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/modules.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:30,025 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:30,129 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:30,435 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:30,743 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:30,845 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:31,459 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:31,766 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:32,073 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:32,381 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:32,790 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:32,892 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:33,200 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:33,302 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:33,712 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:33,814 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:34,327 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:34,375 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:34,746 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-07-02 08:19:35,453 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-07-02 08:19:35,861 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/BAAI/bge-small-en-v1.5/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 08:19:35,964 [INFO] httpx — HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/BAAI/bge-small-en-v1.5/5c38ec7c405ec4b44b94cc5a9bb96e735b38267a/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-07-02 08:19:36,273 [INFO] httpx — HTTP Request: GET https://huggingface.co/api/models/BAAI/bge-small-en-v1.5 "HTTP/1.1 200 OK"
+2026-07-02 11:35:07,213 [INFO] src.embedder.index_builder — Encoding complete: 100000 vectors (384-dim)
+2026-07-02 11:35:07,231 [INFO] src.embedder.index_builder — Building FAISS IndexFlatIP...
+2026-07-02 11:35:07,344 [INFO] src.embedder.index_builder — Index built: 100000 vectors, exact IP (cosine sim on normalized vecs)
+2026-07-02 11:35:11,997 [INFO] src.embedder.index_builder — Indexing complete. Wall-clock time: 11753.1s
+2026-07-02 11:35:14,737 [INFO] src.pipeline.indexing_pipeline — Indexing pipeline complete.

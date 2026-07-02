@@ -167,7 +167,7 @@ def _call_batch_llm(
     start = time.time()
     try:
         response = client.chat.completions.create(
-            model=settings.llm.model,
+            model=settings.llm.explainer_model,
             messages=[
                 {"role": "system", "content": system_content},
                 {"role": "user", "content": combined_prompt},

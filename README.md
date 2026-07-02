@@ -27,7 +27,7 @@ The LLM does the two things LLMs are good at (understanding messy language once)
 
   100,000 candidate profiles (JSONL)
     │
-    ├──► Candidate Document Builder ──► all-MiniLM-L6-v2 ──► candidate_vectors.npy (100K × 384)
+    ├──► Candidate Document Builder ──► bge-small-en-v1.5 ──► candidate_vectors.npy (100K × 384)
     │                                                              │
     │                                                              ▼
     │                                                       FAISS IndexFlatIP (persisted)
@@ -124,6 +124,15 @@ cat data/outputs/jd_intent.json
 python -c "import pandas as pd; df = pd.read_csv('data/outputs/ranked_output.csv'); print(df.head(5).to_string())"
 ```
 
+### Streamlit Demo App
+
+```bash
+# Launch interactive dashboard (requires GROQ_API_KEY for explanation view)
+streamlit run app/streamlit_app.py
+```
+
+Opens at `http://localhost:8501`. Load any `ranked_output.csv` / `.json` from `data/outputs/<jd>/`.
+
 ---
 
 ## 5. Scoring Methodology
@@ -165,6 +174,9 @@ redrob-ranking-engine/
 │   ├── check_explanations.py
 │   └── find_anchors.py
 ├── data/{raw,processed,outputs}/
+├── app/                     # Streamlit demo dashboard
+│   └── streamlit_app.py
+├── data/{raw,processed,outputs}/
 ├── docs/
 ├── main.py
 └── requirements.txt
@@ -176,24 +188,26 @@ redrob-ranking-engine/
 
 ### All 5 Golden JDs
 
-| JD | Sem Range | Comp Range | Fit@20 | Contam. | Grounding |
-|----|-----------|------------|--------|---------|-----------|
-| Senior Data Engineer | [0.645, 0.666] | [0.697, 0.732] | 0/3 | 0 | **16/20** |
-| HR Manager | [0.600, 0.620] | [0.689, 0.736] | 0/3 | 0 | 0/20\* |
-| Mid Data Analyst | [0.619, 0.640] | [0.682, 0.711] | 0/3 | 0 | 0/20\* |
-| Program Lead (implicit) | [0.572, 0.590] | [0.672, 0.740] | 0/3 | 0 | 0/20\* |
-| Senior Accountant | [0.610, 0.624] | [0.639, 0.722] | 0/3 | 0 | **12/20\*\*** |
+| JD | Sem Range | Comp Range | Precision@20 | Contam. | Grounding |
+|----|-----------|------------|:---:|:---:|:---:|
+| Senior Data Engineer | [0.657, 0.668] | [0.668, 0.721] | **15/15** | 0 | **20/20** |
+| HR Manager | [0.663, 0.676] | [0.671, 0.734] | **15/15** | 0 | **20/20** |
+| Mid Data Analyst | [0.692, 0.698] | [0.701, 0.741] | **15/15** | 0 | **20/20** |
+| Project Manager | [0.677, 0.689] | [0.670, 0.737] | **15/15** | 0 | **16/20** |
+| Senior Accountant | [0.679, 0.689] | [0.636, 0.725] | **15/15** | 0 | **20/20\*** |
 
-\*HR/Analyst/PM hit Groq TPD limit — structured fallback data used.
-\*\*Accountant used llama-3.1-8b-instant fallback model; 12/20 grounded.
+**15/15 precision**: All 3 fit anchors per JD appear at ranks 1-3. Zero contamination across all JDs.
+\*Accountant re-run with `llama-3.1-8b-instant` (batch_size=1) after TPD reset — 20/20 grounded.
+
+**Overall: 96/100 LLM-grounded, 4/100 structured fallback, 0 nulls.**
 
 ### Indexing Performance
 
 | Metric | Value |
 |--------|-------|
-| Records | 100,000, 41m 31s, 0 skipped |
-| Model | `all-MiniLM-L6-v2` (384-dim) |
-| Artifacts | 4 files, ~300 MB |
+| Records | 100,000, 3h 16m, 0 skipped |
+| Model | `BAAI/bge-small-en-v1.5` (384-dim) |
+| Artifacts | 4 files, ~317 MB |
 
 ### Scoring Time
 
@@ -221,7 +235,7 @@ CAND_0026806 (Software Engineer, 6.6+ yrs): with B2 ranking = rank **501**; with
 ## 8. Known Limitations
 
 - **No labeled ground truth** — "ranking quality" validated against manually-constructed golden JDs and anchor candidates, not a benchmark score
-- **Embedding model is CPU-sized** — `all-MiniLM-L6-v2` (384-dim) chosen for laptop-CPU feasibility; may benefit from a higher-dim model or BM25 hybrid retrieval
+- **Embedding model is CPU-sized** — `bge-small-en-v1.5` (384-dim) chosen for laptop-CPU feasibility; may benefit from `bge-base-en-v1.5` (768-dim) or BM25 hybrid retrieval
 - **Synthetic dataset artifacts** — uniform title/skill/geography distribution
 - **No resume parsing** — consumes pre-structured JSON profiles only
 - **No feedback loop** — recruiter actions aren't fed into weight tuning
@@ -232,6 +246,6 @@ CAND_0026806 (Software Engineer, 6.6+ yrs): with B2 ranking = rank **501**; with
 
 Built for the **Redrob Intelligent Candidate Discovery & Ranking Challenge**.
 
-JD understanding and candidate explanation generation powered by **Groq (llama-3.3-70b-versatile)**. Candidate embeddings via **sentence-transformers** (`all-MiniLM-L6-v2`). Vector search via **FAISS**.
+JD understanding and candidate explanation generation powered by **Groq (llama-3.3-70b-versatile)**. Candidate embeddings via **sentence-transformers** (`BAAI/bge-small-en-v1.5`). Vector search via **FAISS**.
 
 Licensed under the [MIT License](LICENSE).

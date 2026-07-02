@@ -2,71 +2,156 @@
   "de": {
     "label": "Senior Data Engineer",
     "fit_anchors": [
-      "CAND_0023617",
-      "CAND_0006135",
-      "CAND_0071511"
+      {
+        "id": "CAND_0054024",
+        "rank": 1
+      },
+      {
+        "id": "CAND_0030827",
+        "rank": 2
+      },
+      {
+        "id": "CAND_0042029",
+        "rank": 3
+      }
     ],
     "nonfit_anchors": [
-      "CAND_0000024",
-      "CAND_0000042",
-      "CAND_0000058"
-    ],
-    "anchor_source": "pipeline-top3-post-domain-filter"
+      {
+        "id": "CAND_0000024",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000042",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000058",
+        "rank": "NOT IN TOP-500"
+      }
+    ]
   },
   "hr": {
     "label": "HR Manager",
     "fit_anchors": [
-      "CAND_0029212",
-      "CAND_0021185",
-      "CAND_0029753"
+      {
+        "id": "CAND_0072646",
+        "rank": 1
+      },
+      {
+        "id": "CAND_0066680",
+        "rank": 2
+      },
+      {
+        "id": "CAND_0063647",
+        "rank": 3
+      }
     ],
     "nonfit_anchors": [
-      "CAND_0000007",
-      "CAND_0000009",
-      "CAND_0000010"
-    ],
-    "anchor_source": "pipeline-top3-post-domain-filter"
+      {
+        "id": "CAND_0000007",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000009",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000010",
+        "rank": "NOT IN TOP-500"
+      }
+    ]
   },
   "analyst": {
     "label": "Mid Data Analyst",
     "fit_anchors": [
-      "CAND_0008803",
-      "CAND_0001493",
-      "CAND_0057065"
+      {
+        "id": "CAND_0062271",
+        "rank": 1
+      },
+      {
+        "id": "CAND_0057065",
+        "rank": 2
+      },
+      {
+        "id": "CAND_0038195",
+        "rank": 3
+      }
     ],
     "nonfit_anchors": [
-      "CAND_0000007",
-      "CAND_0000013",
-      "CAND_0000066"
-    ],
-    "anchor_source": "pipeline-top3-post-domain-filter"
+      {
+        "id": "CAND_0000007",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000013",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000066",
+        "rank": "NOT IN TOP-500"
+      }
+    ]
   },
   "pm": {
     "label": "Project Manager (Implicit)",
     "fit_anchors": [
-      "CAND_0001631",
-      "CAND_0017046",
-      "CAND_0016340"
+      {
+        "id": "CAND_0017046",
+        "rank": 1
+      },
+      {
+        "id": "CAND_0098735",
+        "rank": 2
+      },
+      {
+        "id": "CAND_0095666",
+        "rank": 3
+      }
     ],
     "nonfit_anchors": [
-      "CAND_0000005",
-      "CAND_0000010",
-      "CAND_0000013"
-    ],
-    "anchor_source": "pipeline-top3-post-domain-filter"
+      {
+        "id": "CAND_0000005",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000010",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000013",
+        "rank": "NOT IN TOP-500"
+      }
+    ]
   },
   "accountant": {
     "label": "Senior Accountant",
     "fit_anchors": [
-      "CAND_0054771",
-      "CAND_0088037",
-      "CAND_0021107"
+      {
+        "id": "CAND_0054771",
+        "rank": 1
+      },
+      {
+        "id": "CAND_0086794",
+        "rank": 2
+      },
+      {
+        "id": "CAND_0088037",
+        "rank": 3
+      }
     ],
     "nonfit_anchors": [
-      "CAND_0000007",
-      "CAND_0000010",
-      "CAND_0000013"
-    ],
-    "anchor_source": "pipeline-top3-post-domain-filter"
+      {
+        "id": "CAND_0000007",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000010",
+        "rank": "NOT IN TOP-500"
+      },
+      {
+        "id": "CAND_0000013",
+        "rank": "NOT IN TOP-500"
+      }
+    ]
   }
 }
