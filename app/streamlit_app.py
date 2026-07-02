@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 
 st.set_page_config(
     page_title="IndiaRuns — Candidate Ranking Engine",
-    page_icon="🏃",
+    page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -271,7 +271,7 @@ def show_results(df: pd.DataFrame) -> None:
 
 
 def main() -> None:
-    st.title("🏃 IndiaRuns — Candidate Ranking Engine")
+    st.title("IndiaRuns — Candidate Ranking Engine")
     st.markdown("AI-powered candidate-to-JD matching with multi-faceted scoring and LLM-grounded explanations.")
 
     groq_key = os.environ.get("GROQ_API_KEY", "")
